@@ -7,10 +7,10 @@ A curated list of projects using the NovelCOVID API
 |:------|:-------------|
 | [NovelCOVID API](https://disease.sh) | The official NovelCOVID API Landing Page. |
 | [NovelCOVID GitHub](https://github.com/novelcovid/API) | The official NovelCOVID API GitHub. |
-| [NPM Packagd](https://npmjs.com/novelcovid) | The official NovelCOVID JS Wrapper. |
+| [NPM Package](https://npmjs.com/novelcovid) | The official NovelCOVID JS Wrapper. |
 | [Support Discord](https://discord.gg/EvbMshU) | The official NovelCOVID Discord. |
 
-# Open Source Projects
+# Projects
 
 ## Dashboards
 
@@ -33,6 +33,12 @@ A curated list of projects using the NovelCOVID API
 
 | Link  | Description  | Author |
 |:------|:-------------|:-------|
+
+## API Wrappers
+
+| Link  | Description  | Author |
+|:------|:-------------|:-------|
+| [COVIDAPI](https://npmjs.com/covidapi) | An always up-to-date JavaScript API Wrapper. | [puf17640](https://github.com/puf17640)
 
 ## Misc / Other
 
