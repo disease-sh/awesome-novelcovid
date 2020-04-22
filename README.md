@@ -24,6 +24,11 @@ A curated list of projects using the NovelCOVID API
 | Link  | Description  | Author |
 |:------|:-------------|:-------|
 
+## Desktop Applications
+
+| Link  | Description  | Author |
+|:------|:-------------|:-------|
+
 ## Chatbots
 
 | Link  | Description  | Author |
@@ -33,3 +38,4 @@ A curated list of projects using the NovelCOVID API
 
 | Link  | Description  | Author |
 |:------|:-------------|:-------|
+| [COVID19 Daily Digest](https://covid19dailydigest.com) | A COVID19 newsletter for your country. | [puf17640](https://github.com/puf17640)
