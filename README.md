@@ -46,3 +46,11 @@ A curated list of projects using the NovelCOVID API
 |:------|:-------------|:-------|
 | [COVID19 Daily Digest](https://covid19dailydigest.com) | A COVID19 newsletter for your country. | [puf17640](https://github.com/puf17640)
 | [Corona Track CLI](https://www.npmjs.com/package/coronatrack) | A small corona virus tracker for the command line. | [Ethan Winters](https://github.com/ebwinters/coronatracker)
+
+## Donation
+
+If you want to buy me a coffee so I can stay up late to build cool projects, go here: https://buymeacoffee.com/puf17640
+
+## Contribution
+Contributions welcome! 
+Read the [contribution guidelines](https://github.com/puf17640/awesome-novelcovid/blob/master/contributing.md) first.
