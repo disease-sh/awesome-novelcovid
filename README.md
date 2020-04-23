@@ -52,6 +52,7 @@ A curated list of projects using the NovelCOVID API
 |:------|:-------------|:-------|
 | [TwitterTracker](https://github.com/Tetracyl/CoronavirusTwitterTracker) | Twitter Bot that tweets statistics every 12h. | [Tetracyl](https://github.com/Tetracyl)
 | [CoronaCord](https://github.com/Tetracyl/CoronaCord) | Discord Bot with maps and statistics. | [Tetracyl](https://github.com/Tetracyl)
+| [COVID-19 Bot](https://github.com/tmxak/telegram-covid19) | Telegram Bot with graphs and statistics. | [Maxim Tacu](https://github.com/tmxak)
 
 ## API Wrappers
 
