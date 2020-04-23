@@ -28,49 +28,50 @@
 
 ## Dashboards
 
-| Link  | Description  | Author |
-|:------|:-------------|:-------|
-| [COVID Detail](https://coviddetail.com) | A basic COVID19 dashboard with country search. | [puf17640](https://github.com/puf17640)
-| [COVID Overview](https://covidoverview.com) | A basic COVID19 data visualization with country search. | [puf17640](https://github.com/puf17640)
-| [Virus Covid](https://viruscovid.tech) | A clean and simple dashboard showing numbers and statistics. | [kylerphilipps](https://github.com/kylerphillips)
-| [Stop Covid](https://github.com/drewpayment/covid-19) | An open-source Angular9 App using Plotly and Highcharts. | [drewpayment](https://github.com/drewpayment)
-| [COVID BD](https://github.com/jobayerarman/covidbd) | Info dashboard for Bangladesh in local language. | [jobayerarman](https://github.com/jobayerarman)
-| [COVID-19](https://github.com/gabrielcesar/covid) | Dashboard for Global status by country using Google GeoChart and SVG. | [gabrielcesar](https://github.com/gabrielcesar)
+| Link  | Description  | Author | Language |
+|:------|:-------------|:-------|:---------|
+| [COVID Detail](https://coviddetail.com) | A basic COVID19 dashboard with country search. | [puf17640](https://github.com/puf17640) | English
+| [COVID Overview](https://covidoverview.com) | A basic COVID19 data visualization with country search. | [puf17640](https://github.com/puf17640) | English
+| [Virus Covid](https://viruscovid.tech) | A clean and simple dashboard showing numbers and statistics. | [kylerphilipps](https://github.com/kylerphillips) | English
+| [Stop Covid](https://github.com/drewpayment/covid-19) | An open-source Angular9 App using Plotly and Highcharts. | [drewpayment](https://github.com/drewpayment) | English
+| [COVID BD](https://github.com/jobayerarman/covidbd) | Info dashboard for Bangladesh. | [jobayerarman](https://github.com/jobayerarman) | Bengali (India)
+| [COVID-19](https://github.com/gabrielcesar/covid) | Dashboard for Global status by country using Google GeoChart and SVG. | [gabrielcesar](https://github.com/gabrielcesar) | English
+| [COVID19 Timeline World Map](https://s3.amazonaws.com/covid20.today/index.html) | A Timeline world map with advances of coronavirus. | [stacello19](https://github.com/stacello19) | English
 
 ## Mobile Applications
 
-| Link  | Description  | Author |
-|:------|:-------------|:-------|
-| [COVID19-App](https://github.com/Tetracyl/COVID19-App) | App for iOS and Android made with Unity. | [Tetracyl](https://github.com/Tetracyl)
+| Link  | Description  | Author | Language |
+|:------|:-------------|:-------|:---------|
+| [COVID19-App](https://github.com/Tetracyl/COVID19-App) | App for iOS and Android made with Unity. | [Tetracyl](https://github.com/Tetracyl) | English
 
 ## Desktop Applications
 
-| Link  | Description  | Author |
-|:------|:-------------|:-------|
-| [Costa Rica Tracker](https://github.com/bryandms/covid-19costaricatracker) | MacOS MenuBar Tracker for Costa Rica (configurable for others). | [bryandms](https://github.com/bryandms)
+| Link  | Description  | Author | Language |
+|:------|:-------------|:-------|:---------|
+| [Costa Rica Tracker](https://github.com/bryandms/covid-19costaricatracker) | MacOS MenuBar Tracker for Costa Rica (configurable for others). | [bryandms](https://github.com/bryandms) | English
 
 ## Bots
 
-| Link  | Description  | Author |
-|:------|:-------------|:-------|
-| [TwitterTracker](https://github.com/Tetracyl/CoronavirusTwitterTracker) | Twitter Bot that tweets statistics every 12h. | [Tetracyl](https://github.com/Tetracyl)
-| [CoronaCord](https://github.com/Tetracyl/CoronaCord) | Discord Bot with maps and statistics. | [Tetracyl](https://github.com/Tetracyl)
-| [COVID-19 Bot](https://github.com/tmxak/telegram-covid19) | Telegram Bot with graphs and statistics. | [Maxim Tacu](https://github.com/tmxak)
+| Link  | Description  | Author | Language |
+|:------|:-------------|:-------|:---------|
+| [TwitterTracker](https://github.com/Tetracyl/CoronavirusTwitterTracker) | Twitter Bot that tweets statistics every 12h. | [Tetracyl](https://github.com/Tetracyl) | English
+| [CoronaCord](https://github.com/Tetracyl/CoronaCord) | Discord Bot with maps and statistics. | [Tetracyl](https://github.com/Tetracyl) | English
+| [COVID-19 Bot](https://github.com/tmxak/telegram-covid19) | Telegram Bot with graphs and statistics. | [Maxim Tacu](https://github.com/tmxak) | English
 
 ## API Wrappers
 
-| Link  | Description  | Author |
-|:------|:-------------|:-------|
-| [COVIDAPI](https://npmjs.com/covidapi) | An always up-to-date JavaScript API Wrapper. | [puf17640](https://github.com/puf17640)
-| [corona-api](https://pypi.org/project/corona-api) | An always up-to-date Python API Wrapper. | [apex2504](https://github.com/apex2504)
+| Link  | Description  | Author | Language |
+|:------|:-------------|:-------|:---------|
+| [COVIDAPI](https://npmjs.com/covidapi) | An always up-to-date JavaScript API Wrapper. | [puf17640](https://github.com/puf17640) | English
+| [corona-api](https://pypi.org/project/corona-api) | An always up-to-date Python API Wrapper. | [apex2504](https://github.com/apex2504) | English
 
 ## Other
 
-| Link  | Description  | Author |
-|:------|:-------------|:-------|
-| [COVID19 Daily Digest](https://covid19dailydigest.com) | A COVID19 newsletter for your country. | [puf17640](https://github.com/puf17640)
-| [Corona Track CLI](https://www.npmjs.com/package/coronatrack) | A small corona virus tracker for the command line. | [Ethan Winters](https://github.com/ebwinters)
-| [COVID19 Tracker CLI](https://github.com/trackercli/covid19-tracker-cli) | Open-source Tracker CLI written in NodeJS. | [WarenGonzaga](https://github.com/WarenGonzaga)
+| Link  | Description  | Author | Language |
+|:------|:-------------|:-------|:---------|
+| [COVID19 Daily Digest](https://covid19dailydigest.com) | A COVID19 newsletter for your country. | [puf17640](https://github.com/puf17640) | English
+| [Corona Track CLI](https://www.npmjs.com/package/coronatrack) | A small corona virus tracker for the command line. | [Ethan Winters](https://github.com/ebwinters) | English
+| [COVID19 Tracker CLI](https://github.com/trackercli/covid19-tracker-cli) | Open-source Tracker CLI written in NodeJS. | [WarenGonzaga](https://github.com/WarenGonzaga) | English
 
 # Donation
 
