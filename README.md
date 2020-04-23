@@ -27,6 +27,9 @@ A curated list of projects using the NovelCOVID API
 |:------|:-------------|:-------|
 | [COVID Detail](https://coviddetail.com) | A basic COVID19 dashboard with country search. | [puf17640](https://github.com/puf17640)
 | [COVID Overview](https://covidoverview.com) | A basic COVID19 data visualization with country search. | [puf17640](https://github.com/puf17640)
+| [Virus Covid](https://viruscovid.tech) | A clean and simple dashboard showing numbers and statistics. | [kylerphilipps](https://github.com/kylerphillips)
+| [Stop Covid](https://github.com/drewpayment/covid-19) | An open-source Angular9 App using Plotly and Highcharts. | [drewpayment](https://github.com/drewpayment)
+| [COVID BD](https://github.com/jobayerarman/covidbd) | Info dashboard for Bangladesh in local language. | [jobayerarman](https://github.com/jobayerarman)
 
 ## Mobile Applications
 
@@ -58,7 +61,8 @@ A curated list of projects using the NovelCOVID API
 | Link  | Description  | Author |
 |:------|:-------------|:-------|
 | [COVID19 Daily Digest](https://covid19dailydigest.com) | A COVID19 newsletter for your country. | [puf17640](https://github.com/puf17640)
-| [Corona Track CLI](https://www.npmjs.com/package/coronatrack) | A small corona virus tracker for the command line. | [Ethan Winters](https://github.com/ebwinters/coronatracker)
+| [Corona Track CLI](https://www.npmjs.com/package/coronatrack) | A small corona virus tracker for the command line. | [Ethan Winters](https://github.com/ebwinters)
+| [COVID19 Tracker CLI](https://github.com/trackercli/covid19-tracker-cli) | Open-source Tracker CLI written in NodeJS. | [WarenGonzaga](https://github.com/WarenGonzaga)
 
 ## Donation
 
