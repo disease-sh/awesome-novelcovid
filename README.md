@@ -48,6 +48,7 @@ A curated list of projects using the NovelCOVID API
 | Link  | Description  | Author |
 |:------|:-------------|:-------|
 | [COVIDAPI](https://npmjs.com/covidapi) | An always up-to-date JavaScript API Wrapper. | [puf17640](https://github.com/puf17640)
+| [corona-api](https://pypi.org/project/corona-api) | An always up-to-date Python API Wrapper. | [apex2504](https://github.com/apex2504)
 
 ## Other
 
