@@ -70,7 +70,7 @@ A curated list of projects using the NovelCOVID API
 
 # Donation
 
-If you want to buy me a coffee so I can stay up late to build cool projects, go here: https://buymeacoffee.com/puf17640
+<a href="https://www.buymeacoffee.com/covidapi/shop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" width="217" height="50"></a>
 
 # Contribution
 Contributions welcome! 
