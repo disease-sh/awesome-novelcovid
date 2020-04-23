@@ -3,9 +3,9 @@ A curated list of projects using the NovelCOVID API
 
 - [Get to Know](#get-to-know)
 - [Projects](#projects)
-  - [Dasboards](#dashbaords)
-  - [Mobile Application](#mobile-application)
-  - [Desktop Application](#desktop-application)
+  - [Dasboards](#dashboards)
+  - [Mobile Applications](#mobile-applications)
+  - [Desktop Applications](#desktop-applications)
   - [Chatbots](#chatbots)
   - [API Wrappers](#api-wrappers)
   - [Other](#other)
