@@ -32,16 +32,19 @@ A curated list of projects using the NovelCOVID API
 
 | Link  | Description  | Author |
 |:------|:-------------|:-------|
+| [COVID19-App](https://github.com/Tetracyl/COVID19-App) | App for iOS and Android made with Unity. | [Tetracyl](https://github.com/Tetracyl)
 
 ## Desktop Applications
 
 | Link  | Description  | Author |
 |:------|:-------------|:-------|
 
-## Chatbots
+## Bots
 
 | Link  | Description  | Author |
 |:------|:-------------|:-------|
+| [TwitterTracker](https://github.com/Tetracyl/CoronavirusTwitterTracker) | Twitter Bot that tweets statistics every 12h. | [Tetracyl](https://github.com/Tetracyl)
+| [CoronaCord](https://github.com/Tetracyl/CoronaCord) | Discord Bot with maps and statistics. | [Tetracyl](https://github.com/Tetracyl)
 
 ## API Wrappers
 
