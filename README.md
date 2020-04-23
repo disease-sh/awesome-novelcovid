@@ -37,6 +37,7 @@
 | [COVID BD](https://github.com/jobayerarman/covidbd) | Info dashboard for Bangladesh. | [jobayerarman](https://github.com/jobayerarman) | Bengali (India)
 | [COVID-19](https://github.com/gabrielcesar/covid) | Dashboard for Global status by country using Google GeoChart and SVG. | [gabrielcesar](https://github.com/gabrielcesar) | English
 | [COVID19 Timeline World Map](https://s3.amazonaws.com/covid20.today/index.html) | A Timeline world map with advances of coronavirus. | [stacello19](https://github.com/stacello19) | English
+| [Corona+ (Positive)](https://petterastedt.github.io/coronaplus/) | Focusing on the more positive statistics of the spread of the coronavirus. | [petterastedt](https://github.com/petterastedt) | English
 
 ## Mobile Applications
 
