@@ -26,14 +26,15 @@ A curated list of projects using the NovelCOVID API
 
 ## Dashboards
 
-| Link  | Description  | Author |
-|:------|:-------------|:-------|
-| [COVID Detail](https://coviddetail.com) | A basic COVID19 dashboard with country search. | [puf17640](https://github.com/puf17640)
-| [COVID Overview](https://covidoverview.com) | A basic COVID19 data visualization with country search. | [puf17640](https://github.com/puf17640)
-| [Virus Covid](https://viruscovid.tech) | A clean and simple dashboard showing numbers and statistics. | [kylerphilipps](https://github.com/kylerphillips)
-| [Stop Covid](https://github.com/drewpayment/covid-19) | An open-source Angular9 App using Plotly and Highcharts. | [drewpayment](https://github.com/drewpayment)
-| [COVID BD](https://github.com/jobayerarman/covidbd) | Info dashboard for Bangladesh in local language. | [jobayerarman](https://github.com/jobayerarman)
-| [COVID-19](https://github.com/gabrielcesar/covid) | Dashboard for Global status by country using Google GeoChart and SVG. | [gabrielcesar](https://github.com/gabrielcesar)
+| Link  | Description  | Author | Language |
+|:------|:-------------|:-------|:---------|
+| [COVID Detail](https://coviddetail.com) | A basic COVID19 dashboard with country search. | [puf17640](https://github.com/puf17640) | English
+| [COVID Overview](https://covidoverview.com) | A basic COVID19 data visualization with country search. | [puf17640](https://github.com/puf17640) | English
+| [Virus Covid](https://viruscovid.tech) | A clean and simple dashboard showing numbers and statistics. | [kylerphilipps](https://github.com/kylerphillips) | English
+| [Stop Covid](https://github.com/drewpayment/covid-19) | An open-source Angular9 App using Plotly and Highcharts. | [drewpayment](https://github.com/drewpayment) | English
+| [COVID BD](https://github.com/jobayerarman/covidbd) | Info dashboard for Bangladesh. | [jobayerarman](https://github.com/jobayerarman) | Bengali (India)
+| [COVID-19](https://github.com/gabrielcesar/covid) | Dashboard for Global status by country using Google GeoChart and SVG. | [gabrielcesar](https://github.com/gabrielcesar) | English
+| [COVID19 Timeline World Map](https://s3.amazonaws.com/covid20.today/index.html) | A Timeline world map with advances of coronavirus. | [stacello19](https://github.com/stacello19) | English
 
 ## Mobile Applications
 
