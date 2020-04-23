@@ -41,6 +41,7 @@ A curated list of projects using the NovelCOVID API
 
 | Link  | Description  | Author |
 |:------|:-------------|:-------|
+| [Costa Rica Tracker](https://github.com/bryandms/covid-19costaricatracker) | MacOS MenuBar Tracker for Costa Rica (configurable for others). | [bryandms](https://github.com/bryandms)
 
 ## Bots
 
