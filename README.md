@@ -33,6 +33,7 @@ A curated list of projects using the NovelCOVID API
 | [Virus Covid](https://viruscovid.tech) | A clean and simple dashboard showing numbers and statistics. | [kylerphilipps](https://github.com/kylerphillips)
 | [Stop Covid](https://github.com/drewpayment/covid-19) | An open-source Angular9 App using Plotly and Highcharts. | [drewpayment](https://github.com/drewpayment)
 | [COVID BD](https://github.com/jobayerarman/covidbd) | Info dashboard for Bangladesh in local language. | [jobayerarman](https://github.com/jobayerarman)
+| [COVID-19](https://github.com/gabrielcesar/covid) | Dashboard for Global status by country using Google GeoChart and SVG. | [gabrielcesar](https://github.com/gabrielcesar)
 
 ## Mobile Applications
 
