@@ -38,38 +38,38 @@ A curated list of projects using the NovelCOVID API
 
 ## Mobile Applications
 
-| Link  | Description  | Author |
-|:------|:-------------|:-------|
-| [COVID19-App](https://github.com/Tetracyl/COVID19-App) | App for iOS and Android made with Unity. | [Tetracyl](https://github.com/Tetracyl)
+| Link  | Description  | Author | Language |
+|:------|:-------------|:-------|:---------|
+| [COVID19-App](https://github.com/Tetracyl/COVID19-App) | App for iOS and Android made with Unity. | [Tetracyl](https://github.com/Tetracyl) | English
 
 ## Desktop Applications
 
-| Link  | Description  | Author |
-|:------|:-------------|:-------|
-| [Costa Rica Tracker](https://github.com/bryandms/covid-19costaricatracker) | MacOS MenuBar Tracker for Costa Rica (configurable for others). | [bryandms](https://github.com/bryandms)
+| Link  | Description  | Author | Language |
+|:------|:-------------|:-------|:---------|
+| [Costa Rica Tracker](https://github.com/bryandms/covid-19costaricatracker) | MacOS MenuBar Tracker for Costa Rica (configurable for others). | [bryandms](https://github.com/bryandms) | English
 
 ## Bots
 
-| Link  | Description  | Author |
-|:------|:-------------|:-------|
-| [TwitterTracker](https://github.com/Tetracyl/CoronavirusTwitterTracker) | Twitter Bot that tweets statistics every 12h. | [Tetracyl](https://github.com/Tetracyl)
-| [CoronaCord](https://github.com/Tetracyl/CoronaCord) | Discord Bot with maps and statistics. | [Tetracyl](https://github.com/Tetracyl)
-| [COVID-19 Bot](https://github.com/tmxak/telegram-covid19) | Telegram Bot with graphs and statistics. | [Maxim Tacu](https://github.com/tmxak)
+| Link  | Description  | Author | Language |
+|:------|:-------------|:-------|:---------|
+| [TwitterTracker](https://github.com/Tetracyl/CoronavirusTwitterTracker) | Twitter Bot that tweets statistics every 12h. | [Tetracyl](https://github.com/Tetracyl) | English
+| [CoronaCord](https://github.com/Tetracyl/CoronaCord) | Discord Bot with maps and statistics. | [Tetracyl](https://github.com/Tetracyl) | English
+| [COVID-19 Bot](https://github.com/tmxak/telegram-covid19) | Telegram Bot with graphs and statistics. | [Maxim Tacu](https://github.com/tmxak) | English
 
 ## API Wrappers
 
-| Link  | Description  | Author |
-|:------|:-------------|:-------|
-| [COVIDAPI](https://npmjs.com/covidapi) | An always up-to-date JavaScript API Wrapper. | [puf17640](https://github.com/puf17640)
-| [corona-api](https://pypi.org/project/corona-api) | An always up-to-date Python API Wrapper. | [apex2504](https://github.com/apex2504)
+| Link  | Description  | Author | Language |
+|:------|:-------------|:-------|:---------|
+| [COVIDAPI](https://npmjs.com/covidapi) | An always up-to-date JavaScript API Wrapper. | [puf17640](https://github.com/puf17640) | English
+| [corona-api](https://pypi.org/project/corona-api) | An always up-to-date Python API Wrapper. | [apex2504](https://github.com/apex2504) | English
 
 ## Other
 
-| Link  | Description  | Author |
-|:------|:-------------|:-------|
-| [COVID19 Daily Digest](https://covid19dailydigest.com) | A COVID19 newsletter for your country. | [puf17640](https://github.com/puf17640)
-| [Corona Track CLI](https://www.npmjs.com/package/coronatrack) | A small corona virus tracker for the command line. | [Ethan Winters](https://github.com/ebwinters)
-| [COVID19 Tracker CLI](https://github.com/trackercli/covid19-tracker-cli) | Open-source Tracker CLI written in NodeJS. | [WarenGonzaga](https://github.com/WarenGonzaga)
+| Link  | Description  | Author | Language |
+|:------|:-------------|:-------|:---------|
+| [COVID19 Daily Digest](https://covid19dailydigest.com) | A COVID19 newsletter for your country. | [puf17640](https://github.com/puf17640) | English
+| [Corona Track CLI](https://www.npmjs.com/package/coronatrack) | A small corona virus tracker for the command line. | [Ethan Winters](https://github.com/ebwinters) | English
+| [COVID19 Tracker CLI](https://github.com/trackercli/covid19-tracker-cli) | Open-source Tracker CLI written in NodeJS. | [WarenGonzaga](https://github.com/WarenGonzaga) | English
 
 # Donation
 
