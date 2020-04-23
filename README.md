@@ -8,7 +8,7 @@
   - [Dasboards](#dashboards)
   - [Mobile Applications](#mobile-applications)
   - [Desktop Applications](#desktop-applications)
-  - [Chatbots](#chatbots)
+  - [Bots](#bots)
   - [API Wrappers](#api-wrappers)
   - [Other](#other)
 - [Donation](#donation)
