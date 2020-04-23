@@ -16,7 +16,7 @@ Your contributions are always welcome! Please make sure your Pull Requests match
    * Link to your project in the first column of your addition.
    * Description of what the project is about.
    * Link to your GitHub profile.
-   * Language your project is accessible in. If there are more than 2, please just specify "Multiple".
+   * Languages/Locales your project is accessible in. If there are more than 2, please just specify "Multiple".
 <br>
 
 * Search previous Pull Requests or Issues before making a new one, as yours may be a duplicate.
