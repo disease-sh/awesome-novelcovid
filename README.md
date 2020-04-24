@@ -85,4 +85,4 @@
 
 # Contribution
 Contributions welcome! 
-Read the [contribution guidelines](https://github.com/puf17640/awesome-novelcovid/blob/master/contributing.md) first.
+Read the [contribution guidelines](https://github.com/puf17640/awesome-novelcovid/blob/master/CONTRIBUTING.md) first.
