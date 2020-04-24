@@ -38,6 +38,7 @@
 | [COVID-19](https://github.com/gabrielcesar/covid) | Dashboard for Global status by country using Google GeoChart and SVG. | [gabrielcesar](https://github.com/gabrielcesar) | English
 | [COVID19 Timeline World Map](https://s3.amazonaws.com/covid20.today/index.html) | A Timeline world map with advances of coronavirus. | [stacello19](https://github.com/stacello19) | English
 | [Corona+ (Positive)](https://petterastedt.github.io/coronaplus/) | Focusing on the more positive statistics of the spread of the coronavirus. | [petterastedt](https://github.com/petterastedt) | English
+| [Corona Bubbles](https://coronabubbles.net/) | Visualize all countries in an interactive bubble chart. | [ulrichstark](https://github.com/ulrichstark) | English
 
 ## Mobile Applications
 
