@@ -10,6 +10,7 @@ Your contributions are always welcome! Please make sure your Pull Requests match
 * Keep descriptions concise.
 * If you want to add sections, please make a seperate PR.
 * Make sure you don't change or delete any of the other additions.
+* Only add your project to 1 category.
 <br>
 
 * What to add
