@@ -63,7 +63,7 @@
 | [TwitterTracker](https://github.com/Tetracyl/CoronavirusTwitterTracker) | Twitter Bot that tweets statistics every 12h. | [Tetracyl](https://github.com/Tetracyl) | English
 | [CoronaCord](https://github.com/Tetracyl/CoronaCord) | Discord Bot with maps and statistics. | [Tetracyl](https://github.com/Tetracyl) | English
 | [COVID-19 Bot](https://github.com/tmxak/telegram-covid19) | Telegram Bot with graphs and statistics. | [Maxim Tacu](https://github.com/tmxak) | English
-[SinusBot COVID-19 Live Feed](https://forum.sinusbot.com/resources/covid-19-live-feed.482/) | TS3 bot addon to track statistics in real time.  | [Francesco D'anetra] | English
+[SinusBot COVID-19 Live Feed](https://forum.sinusbot.com/resources/covid-19-live-feed.482/) | TS3 bot addon to track statistics in real time.  | [Francesco Danetra] | English
 
 ## API Wrappers
 
