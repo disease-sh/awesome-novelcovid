@@ -39,6 +39,7 @@
 | [COVID19 Timeline World Map](https://s3.amazonaws.com/covid20.today/index.html) | A Timeline world map with advances of coronavirus. | [stacello19](https://github.com/stacello19) | English
 | [Corona+ (Positive)](https://petterastedt.github.io/coronaplus/) | Focusing on the more positive statistics of the spread of the coronavirus. | [petterastedt](https://github.com/petterastedt) | English
 | [Corona Bubbles](https://coronabubbles.net/) | Visualize all countries in an interactive bubble chart. | [ulrichstark](https://github.com/ulrichstark) | English
+| [Covid-19 cases - figures and plots](https://coronaservice.z6.web.core.windows.net/) | Shows JHU case data using NovelCOVID along with community mobility data from google and estimates R0. | [CodingOrca](https://github.com/CodingOrca) | English
 
 ## Mobile Applications
 
