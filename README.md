@@ -40,6 +40,8 @@
 | [Corona+ (Positive)](https://petterastedt.github.io/coronaplus/) | Focusing on the more positive statistics of the spread of the coronavirus. | [petterastedt](https://github.com/petterastedt) | English
 | [Corona Bubbles](https://coronabubbles.net/) | Visualize all countries in an interactive bubble chart. | [ulrichstark](https://github.com/ulrichstark) | English
 | [Covid-19 cases - figures and plots](https://coronaservice.z6.web.core.windows.net/) | Shows JHU case data using NovelCOVID along with community mobility data from google and estimates R0. | [CodingOrca](https://github.com/CodingOrca) | English
+| [Track Coronavirus(COVID19)](https://www.trackcoronavirus.info/) | Interactive map, available in choropleth or heat. Search stats by country. | [BPouncey](https://github.com/BPouncey) | English
+
 
 ## Mobile Applications
 
