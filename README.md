@@ -43,6 +43,7 @@
 | [Track Coronavirus(COVID19)](https://www.trackcoronavirus.info/) | Interactive map, available in choropleth or heat. Search stats by country. | [BPouncey](https://github.com/BPouncey) | English
 | [COVID19 Balkan countries](https://covid19-balkan.com/) | A simple, chart visualized data about the current impact of COVID-19 in the Balkan countries. | [GoodbyePlanet](https://github.com/GoodbyePlanet) | English
 | [COVID 3D Map](https://covid3dmaps.com/) | Interactive 3D globe visualization for COVID stats. | [itsatrip](https://github.com/itsatrip) | English, Spanish
+| [COVID-19 Tracker](http://tcovid19.herokuapp.com/) | Dashboard with data visualisations for both India & rest of the world. | [thecoducer](https://github.com/thecoducer) | English
 
 ## Mobile Applications
 
