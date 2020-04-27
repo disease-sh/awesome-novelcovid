@@ -8,6 +8,7 @@ Your contributions are always welcome! Please make sure your Pull Requests match
 * Make sure the PR title is in the format of `Add project-name`.
 * Write down the reason you think the project is awesome. If you don't the maintainers will decide on their own.
 * Keep descriptions concise.
+* Add your project to the end of a category.
 * If you want to add sections, please make a seperate PR.
 * Make sure you don't change or delete any of the other additions.
 * Only add your project to 1 category.
