@@ -34,6 +34,7 @@
 | [COVID Overview](https://covidoverview.com) | A basic COVID19 data visualization with country search. | [puf17640](https://github.com/puf17640) | English
 | [Virus Covid](https://viruscovid.tech) | A clean and simple dashboard showing numbers and statistics. | [kylerphilipps](https://github.com/kylerphillips) | English
 | [Stop Covid](https://github.com/drewpayment/covid-19) | An open-source Angular9 App using Plotly and Highcharts. | [drewpayment](https://github.com/drewpayment) | English
+| [Covid Stats](https://covid-stats.azureedge.net/) | A COVID19 web dashboard built in Vue.js and hosted in Azure CDN (HTTP/2) with the NovelCOVID API running in a Docker container in Azure against an Azure Redis Cache. | [arisp](https://github.com/arisp) | English
 | [COVID BD](https://github.com/jobayerarman/covidbd) | Info dashboard for Bangladesh. | [jobayerarman](https://github.com/jobayerarman) | Bengali (Bangladesh)
 | [COVID-19](https://github.com/gabrielcesar/covid) | Dashboard for Global status by country using Google GeoChart and SVG. | [gabrielcesar](https://github.com/gabrielcesar) | English
 | [COVID19 Timeline World Map](https://s3.amazonaws.com/covid20.today/index.html) | A Timeline world map with advances of coronavirus. | [stacello19](https://github.com/stacello19) | English
