@@ -88,6 +88,7 @@
 | [Corona Track CLI](https://www.npmjs.com/package/coronatrack) | Small corona virus tracker for the command line. | [Ethan Winters](https://github.com/ebwinters) | English
 | [COVID19 Tracker CLI](https://github.com/trackercli/covid19-tracker-cli) | Open-source Tracker CLI written in NodeJS. | [WarenGonzaga](https://github.com/WarenGonzaga) | English
 | [Covidstat](https://covidstat.info/graphql) | COVID19 GraphQL API using the NovelCOVID Scraper. | [skavinvarnan](https://github.com/skavinvarnan) | English
+| [coronaTracker](https://github.com/KandaTeach/corona-tracker-console-application) | coronaTracker is a CLI app using the NovelCOVID API link. | [KandaTeach](https://github.com/KandaTeach) | Filipino, English
 
 # Donation
 
