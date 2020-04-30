@@ -45,6 +45,7 @@
 | [COVID 3D Map](https://covid3dmaps.com/) | Interactive 3D globe visualization for COVID stats. | [itsatrip](https://github.com/itsatrip) | English, Spanish
 | [COVID-19 Tracker](http://tcovid19.herokuapp.com/) | Dashboard with data visualisations for both India & rest of the world. | [thecoducer](https://github.com/thecoducer) | English
 | [Corona Live](https://coronaisrael.live/) | Get updated live statistics on the spread of Coronavirus in Israel and in other countries around the world. (English version coming soon) | [meirroth](https://github.com/meirroth) | Hebrew
+| [Covidstat](https://covidstat.info) | Beautiful interactive dashboard to know number of 🦠COVID19 cases across the world, also country-wise data. 🆕Data updates every 3 mins from multiple sources | [skavinvarnan](https://github.com/skavinvarnan) | English
 
 ## Mobile Applications
 
