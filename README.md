@@ -48,7 +48,7 @@
 | [Tracking COVID-19](https://tracking-covid-19.herokuapp.com) | Dashboard to track the spread of COVID-19 outbreak. | [simongjetaj](https://github.com/simongjetaj) | English
 | [COVID-19 Informer](https://covid-19informer.com) | COVID-19 Stats Dashboard | [aamay001](https://github.com/aamay001) | English
 | [COVID-19 Dashboard](https://josiahyeow.github.io/covid-19-dashboard/) | Simple dashboard which shows the numbers and curve of country and (Australian) state data. | [josiahyeow](https://github.com/josiahyeow) | English
-| [COVID-19 World Stats Dashboard](https://covid19worldstatsxyz.netlify.app/) | Dashboard for Covid-19 world and country's stats (with maps) | [dediacc](https://github.com/dediacc) | English
+| [COVID-19 World Stats Dashboard](https://covid19worldstatsxyz.netlify.app/) | Dashboard for COVID-19 global and country specific stats. | [dediacc](https://github.com/dediacc) | English
 
 
 ## Mobile Applications
