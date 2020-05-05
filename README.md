@@ -57,7 +57,7 @@
 | [COVID19-App](https://github.com/Tetracyl/COVID19-App) | App for iOS and Android made with Unity. | [Tetracyl](https://github.com/Tetracyl) | English
 | [Covid-Tracker-Android-App](https://github.com/destructo570/CovidTracker) | Minimal and elegant android app to get latest COVID-19 statistics and information about the pandemic. | [destructo570](https://github.com/destructo570) | English
 | [CoronaCases](https://github.com/SwiftiSwift/CoronaCases) | Watch the latest Corona Virus cases in your country and in the world for iOS, iPadOS and macOS.  | [SwiftiSwift](https://github.com/SwiftiSwift) | English, German
-| [CovidUI](https://github.com/nerdsupremacist/CovidUI) | SwiftUI App displaying the latest information on Covid-19. This is an experiment for using GraphQL and Neumorphic Design  | [nerdsupremacist](https://github.com/nerdsupremacist) | English
+| [CovidUI](https://github.com/nerdsupremacist/CovidUI) | SwiftUI App displaying information on Covid-19. This is an experiment for using GraphQL and Neomorphic Design.  | [nerdsupremacist](https://github.com/nerdsupremacist) | English
 
 ## Desktop Applications
 
