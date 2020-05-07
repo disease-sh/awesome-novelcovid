@@ -63,7 +63,6 @@
 | [COVIDAR](https://github.com/slidershock/COVIDAR) |  Material design iOS/Android app to track the COVID-19 pandemic. App built using React Native.| [slidershock](https://github.com/slidershock) | English
 
 
-
 ## Desktop Applications
 
 | Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Description  | Author | Language |
