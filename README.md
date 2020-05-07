@@ -60,6 +60,7 @@
 | [CoronaCases](https://github.com/SwiftiSwift/CoronaCases) | Watch the latest Corona Virus cases in your country and in the world for iOS, iPadOS and macOS.  | [SwiftiSwift](https://github.com/SwiftiSwift) | English, German
 | [CovidUI](https://github.com/nerdsupremacist/CovidUI) | SwiftUI App displaying information on Covid-19. This is an experiment for using GraphQL and Neomorphic Design.  | [nerdsupremacist](https://github.com/nerdsupremacist) | English
 | [CoronaTracker](https://github.com/m1awicki/mobilecoronatracker) | Android app that lets user track progress of COVID-19 pandemic in their countries and globally.  | [m1awicki](https://github.com/m1awicki), [MDikkii](https://github.com/MDikkii) | English, Polish
+| [COVIDAR](https://github.com/slidershock/COVIDAR) |  Material design iOS/Android app to track the COVID-19 pandemic. App built using React Native.| [slidershock](https://github.com/slidershock) | English
 
 
 ## Desktop Applications
