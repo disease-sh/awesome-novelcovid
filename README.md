@@ -29,6 +29,7 @@
 
 | Link  | Description  | Author | Language |
 |:------|:-------------|:-------|:---------|
+| [Katana ML COVID Forecasting](https://app.katanaml.io/covid19) | Machine Learning Forecasting the infection trends by country  | [abaranovskis-redsamurai](https://app.katanaml.io/covid19) | English
 | [COVID Detail](https://coviddetail.com) | Basic COVID19 dashboard with country search. | [puf17640](https://github.com/puf17640) | English
 | [COVID Overview](https://covidoverview.com) | Basic COVID19 data visualization with country search. | [puf17640](https://github.com/puf17640) | English
 | [Virus Covid](https://viruscovid.tech) | Clean and simple dashboard showing numbers and statistics. | [kylerphilipps](https://github.com/kylerphillips) | English
