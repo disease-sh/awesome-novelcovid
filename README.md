@@ -14,7 +14,6 @@
 - [Donation](#donation)
 - [Contribution](#contribution)
 
-
 ## Get to Know
 
 | Link  | Description  |
@@ -50,7 +49,7 @@
 | [COVID-19 Dashboard](https://josiahyeow.github.io/covid-19-dashboard/) | Simple dashboard which shows the numbers and curve of country and (Australian) state data. | [josiahyeow](https://github.com/josiahyeow) | English
 | [COVID-19 World Stats Dashboard](https://covid19worldstatsxyz.netlify.app/) | Dashboard for COVID-19 global and country specific stats. | [dediacc](https://github.com/dediacc) | English
 | [COVID-19 Status Tracker](https://covid-19-status-tracker.netlify.app/) | Status tracker shows the current covid-19 status of all countries with a map. | [RitikPandey1](https://github.com/RitikPandey1) | English
-
+| [COVID-19 Dashboard](https://paul.corona-19.today/) | Compact dashboard with data visualization in react | [paulbtw](https://github.com/paulbtw) | English
 
 ## Mobile Applications
 
@@ -62,7 +61,6 @@
 | [CovidUI](https://github.com/nerdsupremacist/CovidUI) | SwiftUI App displaying information on Covid-19. This is an experiment for using GraphQL and Neomorphic Design.  | [nerdsupremacist](https://github.com/nerdsupremacist) | English
 | [CoronaTracker](https://github.com/m1awicki/mobilecoronatracker) | Android app that lets user track progress of COVID-19 pandemic in their countries and globally.  | [m1awicki](https://github.com/m1awicki), [MDikkii](https://github.com/MDikkii) | English, Polish
 | [COVIDAR](https://github.com/slidershock/COVIDAR) |  Material design iOS/Android app to track the COVID-19 pandemic. App built using React Native.| [slidershock](https://github.com/slidershock) | English
-
 
 ## Desktop Applications
 
