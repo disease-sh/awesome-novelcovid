@@ -48,8 +48,8 @@
 | [COVID-19 Informer](https://covid-19informer.com) | COVID-19 Stats Dashboard | [aamay001](https://github.com/aamay001) | English
 | [COVID-19 Dashboard](https://josiahyeow.github.io/covid-19-dashboard/) | Simple dashboard which shows the numbers and curve of country and (Australian) state data. | [josiahyeow](https://github.com/josiahyeow) | English
 | [COVID-19 World Stats Dashboard](https://covid19worldstatsxyz.netlify.app/) | Dashboard for COVID-19 global and country specific stats. | [dediacc](https://github.com/dediacc) | English
-| [COVID-19 Dashboard](https://paul.corona-19.today/) | Compact dashboard with data visualization in react | [paulbtw](https://github.com/paulbtw) | English
 | [COVID-19 Status Tracker](https://covid-19-status-tracker.netlify.app/) | Status tracker shows the current covid-19 status of all countries with a map. | [RitikPandey1](https://github.com/RitikPandey1) | English
+| [COVID-19 Dashboard](https://paul.corona-19.today/) | Compact dashboard with data visualization in react | [paulbtw](https://github.com/paulbtw) | English
 
 ## Mobile Applications
 
