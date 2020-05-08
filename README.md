@@ -29,6 +29,7 @@
 
 | Link  | Description  | Author | Language |
 |:------|:-------------|:-------|:---------|
+| [COVID19 Tracker](http://www.sars-cov-2019.com/) | COVID19 dashboard with World Map to check country wise Pandemic Pattern. | [suraj-deshmukh](https://github.com/suraj-deshmukh) | English
 | [COVID Detail](https://coviddetail.com) | Basic COVID19 dashboard with country search. | [puf17640](https://github.com/puf17640) | English
 | [COVID Overview](https://covidoverview.com) | Basic COVID19 data visualization with country search. | [puf17640](https://github.com/puf17640) | English
 | [Virus Covid](https://viruscovid.tech) | Clean and simple dashboard showing numbers and statistics. | [kylerphilipps](https://github.com/kylerphillips) | English
