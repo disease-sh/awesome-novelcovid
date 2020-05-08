@@ -61,6 +61,7 @@
 | [CovidUI](https://github.com/nerdsupremacist/CovidUI) | SwiftUI App displaying information on Covid-19. This is an experiment for using GraphQL and Neomorphic Design.  | [nerdsupremacist](https://github.com/nerdsupremacist) | English
 | [CoronaTracker](https://github.com/m1awicki/mobilecoronatracker) | Android app that lets user track progress of COVID-19 pandemic in their countries and globally.  | [m1awicki](https://github.com/m1awicki), [MDikkii](https://github.com/MDikkii) | English, Polish
 | [COVIDAR](https://github.com/slidershock/COVIDAR) |  Material design iOS/Android app to track the COVID-19 pandemic. App built using React Native.| [slidershock](https://github.com/slidershock) | English
+| [Covid19Tracker](https://github.com/arpank10/Covid-19-Flutter) | A minimal android app with a neomorphic touch, providing statistics of COVID-19 cases around the world. | [arpank10](https://github.com/arpank10) | English
 
 ## Desktop Applications
 
