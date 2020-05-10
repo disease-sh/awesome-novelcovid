@@ -50,6 +50,7 @@
 | [COVID-19 World Stats Dashboard](https://covid19worldstatsxyz.netlify.app/) | Dashboard for COVID-19 global and country specific stats. | [dediacc](https://github.com/dediacc) | English
 | [COVID-19 Status Tracker](https://covid-19-status-tracker.netlify.app/) | Status tracker shows the current covid-19 status of all countries with a map. | [RitikPandey1](https://github.com/RitikPandey1) | English
 | [COVID-19 Dashboard](https://paul.corona-19.today/) | Compact dashboard with data visualization in react | [paulbtw](https://github.com/paulbtw) | English
+| [COVID19 Tracker](http://www.sars-cov-2019.com/) | COVID19 dashboard with World Map to check country wise Pandemic Pattern. | [suraj-deshmukh](https://github.com/suraj-deshmukh) | English
 
 ## Mobile Applications
 
