@@ -83,6 +83,7 @@
 | [SinusBot COVID-19 Live Feed](https://forum.sinusbot.com/resources/covid-19-live-feed.482/) | TS3 bot addon to track statistics in real time.  | [Francesco D'anetra](https://github.com/devdanetra) | English
 | [COVID Bot](https://gist.github.com/MarvelDC/94a65655cd8007be167d6359f4a0d2d8) | Discord Bot with graphs, automation and advice. | [MarvelDC](https://github.com/MarvelDC) | English
 | [CoronaPandemicBot](https://github.com/calpt/CoronaPandemicBot) | Telegram bot with per-country statistics, distribution maps and daily notifications. | [calpt](https://github.com/calpt) | English
+| [Covid Bot](https://github.com/doge/covid) | Twitter Bot that tweets statistics every 12h. | [doge](https://github.com/tbnritzdoge) | English
 
 ## API Wrappers
 
