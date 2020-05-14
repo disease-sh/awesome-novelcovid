@@ -52,6 +52,8 @@
 | [COVID-19 Dashboard](https://paul.corona-19.today/) | Compact dashboard with data visualization in react | [paulbtw](https://github.com/paulbtw) | English
 | [COVID19 Tracker](http://www.sars-cov-2019.com/) | COVID19 dashboard with World Map to check country wise Pandemic Pattern. | [suraj-deshmukh](https://github.com/suraj-deshmukh) | English
 | [Covid Stats](https://covid-stats.azureedge.net/) | COVID19 web dashboard built in Vue.js and hosted in Azure CDN (HTTP/2) with the API running in a Docker container in AWS ECS against an ElastiCache Redis cache. | [arisp](https://github.com/arisp) | English
+| [Yet Another Covid-19 App... ¯\\\_(ツ)\_/¯](https://gmagno.dev/covid19/) | 📊 A clean and simple design web app, easy to browse on a smartphone or desktop. | [gmagno](https://github.com/gmagno) | English
+
 
 ## Mobile Applications
 
