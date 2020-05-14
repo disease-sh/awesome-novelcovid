@@ -90,7 +90,7 @@
 
 | Link  | Description  | Author | Language |
 |:------|:-------------|:-------|:---------|
-| [COVIDAPI](https://npmjs.com/covidapi) | Extremely fast and always up-to-date JavaScript API Wrapper. | [puf17640](https://github.com/puf17640) | English
+| [NovelCovid](https://npmjs.com/novelcovid) | Extremely fast and always up-to-date JavaScript API Wrapper (formerly covidapi). | [puf17640](https://github.com/puf17640) | English
 | [corona-api](https://pypi.org/project/corona-api) | Always up-to-date Python API Wrapper. | [apex2504](https://github.com/apex2504) | English
 
 ## Other
