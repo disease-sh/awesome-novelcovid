@@ -53,6 +53,7 @@
 | [COVID19 Tracker](http://www.sars-cov-2019.com/) | COVID19 dashboard with World Map to check country wise Pandemic Pattern. | [suraj-deshmukh](https://github.com/suraj-deshmukh) | English
 | [Covid Stats](https://covid-stats.azureedge.net/) | COVID19 web dashboard built in Vue.js and hosted in Azure CDN (HTTP/2) with the API running in a Docker container in AWS ECS against an ElastiCache Redis cache. | [arisp](https://github.com/arisp) | English
 | [Clean Mobile Dashboard](https://gmagno.dev/covid19/) | Clean and simple design web app, optimized to run on smartphones. | [gmagno](https://github.com/gmagno) | English
+| [COVID-19 Confirmed](https://covid19-confirmed.com) | User-friendly map and dashboard using React and Mapbox GL | [chrisvalmonte](https://github.com/chrisvalmonte) | English
 
 
 ## Mobile Applications
