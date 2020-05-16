@@ -67,6 +67,7 @@
 | [CoronaTracker](https://github.com/m1awicki/mobilecoronatracker) | Android app that lets user track progress of COVID-19 pandemic in their countries and globally.  | [m1awicki](https://github.com/m1awicki), [MDikkii](https://github.com/MDikkii) | English, Polish
 | [COVIDAR](https://github.com/slidershock/COVIDAR) |  Material design iOS/Android app to track the COVID-19 pandemic. App built using React Native.| [slidershock](https://github.com/slidershock) | English
 | [Covid19Tracker](https://github.com/arpank10/Covid-19-Flutter) | A minimal android app with a neomorphic touch, providing statistics of COVID-19 cases around the world. | [arpank10](https://github.com/arpank10) | English
+|[COVID-19 Tracker](https://github.com/prateekKrOraon/covid19_tracker) | Android Application made with Flutter shows global COVID-19 statistics primarily focusing on India. The app also provides predictions (India only) using SIRD model of epidemiology and has a feature to compare spread trends of any two countries. | [prateekKrOraon](https://github.com/prateekKrOraon) | English & Hindi
 
 ## Desktop Applications
 
