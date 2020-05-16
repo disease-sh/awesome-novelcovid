@@ -54,7 +54,7 @@
 | [Covid Stats](https://covid-stats.azureedge.net/) | COVID19 web dashboard built in Vue.js and hosted in Azure CDN (HTTP/2) with the API running in a Docker container in AWS ECS against an ElastiCache Redis cache. | [arisp](https://github.com/arisp) | English
 | [Clean Mobile Dashboard](https://gmagno.dev/covid19/) | Clean and simple design web app, optimized to run on smartphones. | [gmagno](https://github.com/gmagno) | English
 | [COVID-19 Confirmed](https://covid19-confirmed.com) | User-friendly map and dashboard using React and Mapbox GL. | [chrisvalmonte](https://github.com/chrisvalmonte) | English
-
+| [COVID19-Databode](https://databode.web.app) | COVID-19 Tracker for all countries with simple graphs and world choroplet. | [Olaide-EO](https://github.com/Olaide-EO) | English
 
 ## Mobile Applications
 
