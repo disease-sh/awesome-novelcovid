@@ -29,6 +29,7 @@
 
 | Link  | Description  | Author | Language |
 |:------|:-------------|:-------|:---------|
+| [COVID Dashboard](https://github.com/jcbowyer/d3-in-angular) | Shows how to build interactive maps and charts analyzing COVID-19 inside an Angular 9 application using the D3 JavaScript framework.. | [jcbowyer](https://github.com/jcbowyer) | English
 | [COVID Detail](https://coviddetail.com) | Basic COVID19 dashboard with country search. | [puf17640](https://github.com/puf17640) | English
 | [COVID Overview](https://covidoverview.com) | Basic COVID19 data visualization with country search. | [puf17640](https://github.com/puf17640) | English
 | [Virus Covid](https://viruscovid.tech) | Clean and simple dashboard showing numbers and statistics. | [kylerphilipps](https://github.com/kylerphillips) | English
