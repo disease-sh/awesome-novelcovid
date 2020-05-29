@@ -55,9 +55,10 @@
 | [Clean Mobile Dashboard](https://gmagno.dev/covid19/) | Clean and simple design web app, optimized to run on smartphones. | [gmagno](https://github.com/gmagno) | English
 | [COVID-19 Confirmed](https://covid19-confirmed.com) | User-friendly map and dashboard using React and Mapbox GL. | [chrisvalmonte](https://github.com/chrisvalmonte) | English
 | [COVID19-Databode](https://databode.web.app) | COVID-19 Tracker for all countries with simple graphs and world choroplet. | [Olaide-EO](https://github.com/Olaide-EO) | English
-| [Drupal 8 Covid19 Web Gis](http://www.geodemocracy.com/covid19/web/) | Drupal 8 Web Gis Opensource for the Spatial Data Analysis on Covid 19 . | [itamair](https://github.com/itamair) | English
-| [CORONA-TELUGU](https://corona-telugu.herokuapp.com/) | COVID cases by country in Indian regional language telugu | [vishnu](https://github.com/rohinikumar4073) | Telugu / English
+| [Drupal 8 Covid19 Web Gis](http://www.geodemocracy.com/covid19/web/) | Drupal 8 Web Gis Opensource for the Spatial Data Analysis on Covid 19. | [itamair](https://github.com/itamair) | English
+| [CORONA-TELUGU](https://corona-telugu.herokuapp.com/) | COVID cases by country in Indian regional language 'Telugu'. | [vishnu](https://github.com/rohinikumar4073) | Telugu / English
 | [Live SARS-CoV-2](http://livesarscov2.com/) | Dashboard and data visualisations with multi filter options. | [vberkaltun](https://github.com/vberkaltun) | English
+| [COVID Dashboard](https://github.com/jcbowyer/d3-in-angular) | Interactive maps and charts analyzing COVID-19 inside an Angular 9 application using the D3 JavaScript framework. | [jcbowyer](https://github.com/jcbowyer) | English
 
 ## Mobile Applications
 
