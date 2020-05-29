@@ -57,6 +57,7 @@
 | [COVID19-Databode](https://databode.web.app) | COVID-19 Tracker for all countries with simple graphs and world choroplet. | [Olaide-EO](https://github.com/Olaide-EO) | English
 | [Drupal 8 Covid19 Web Gis](http://www.geodemocracy.com/covid19/web/) | Drupal 8 Web Gis Opensource for the Spatial Data Analysis on Covid 19. | [itamair](https://github.com/itamair) | English
 | [CORONA-TELUGU](https://corona-telugu.herokuapp.com/) | COVID cases by country in Indian regional language 'Telugu'. | [vishnu](https://github.com/rohinikumar4073) | Telugu / English
+| [Live SARS-CoV-2](http://livesarscov2.com/) | Dashboard and data visualisations with multi filter options. | [vberkaltun](https://github.com/vberkaltun) | English
 | [COVID Dashboard](https://github.com/jcbowyer/d3-in-angular) | Interactive maps and charts analyzing COVID-19 inside an Angular 9 application using the D3 JavaScript framework. | [jcbowyer](https://github.com/jcbowyer) | English
 
 ## Mobile Applications
@@ -90,6 +91,7 @@
 | [SinusBot COVID-19 Live Feed](https://forum.sinusbot.com/resources/covid-19-live-feed.482/) | TS3 bot addon to track statistics in real time.  | [Francesco D'anetra](https://github.com/devdanetra) | English
 | [COVID Bot](https://gist.github.com/MarvelDC/94a65655cd8007be167d6359f4a0d2d8) | Discord Bot with graphs, automation and advice. | [MarvelDC](https://github.com/MarvelDC) | English
 | [CoronaPandemicBot](https://github.com/calpt/CoronaPandemicBot) | Telegram bot with per-country statistics, distribution maps and daily notifications. | [calpt](https://github.com/calpt) | English
+| [CoronaWorldStatsBot](https://github.com/ravindraten/Covid19WorldStats) | Telegram bot which gives you stats and graph when you share any location from around the world. | [Ravindra Nayak](https://github.com/ravindraten) | English
 
 ## API Wrappers
 
