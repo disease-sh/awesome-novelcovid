@@ -29,7 +29,6 @@
 
 | Link  | Description  | Author | Language |
 |:------|:-------------|:-------|:---------|
-| [COVID Dashboard](https://github.com/jcbowyer/d3-in-angular) | Shows how to build interactive maps and charts analyzing COVID-19 inside an Angular 9 application using the D3 JavaScript framework.. | [jcbowyer](https://github.com/jcbowyer) | English
 | [COVID Detail](https://coviddetail.com) | Basic COVID19 dashboard with country search. | [puf17640](https://github.com/puf17640) | English
 | [COVID Overview](https://covidoverview.com) | Basic COVID19 data visualization with country search. | [puf17640](https://github.com/puf17640) | English
 | [Virus Covid](https://viruscovid.tech) | Clean and simple dashboard showing numbers and statistics. | [kylerphilipps](https://github.com/kylerphillips) | English
@@ -56,8 +55,9 @@
 | [Clean Mobile Dashboard](https://gmagno.dev/covid19/) | Clean and simple design web app, optimized to run on smartphones. | [gmagno](https://github.com/gmagno) | English
 | [COVID-19 Confirmed](https://covid19-confirmed.com) | User-friendly map and dashboard using React and Mapbox GL. | [chrisvalmonte](https://github.com/chrisvalmonte) | English
 | [COVID19-Databode](https://databode.web.app) | COVID-19 Tracker for all countries with simple graphs and world choroplet. | [Olaide-EO](https://github.com/Olaide-EO) | English
-| [Drupal 8 Covid19 Web Gis](http://www.geodemocracy.com/covid19/web/) | Drupal 8 Web Gis Opensource for the Spatial Data Analysis on Covid 19 . | [itamair](https://github.com/itamair) | English
-| [CORONA-TELUGU](https://corona-telugu.herokuapp.com/) | COVID cases by country in Indian regional language telugu | [vishnu](https://github.com/rohinikumar4073) | Telugu / English
+| [Drupal 8 Covid19 Web Gis](http://www.geodemocracy.com/covid19/web/) | Drupal 8 Web Gis Opensource for the Spatial Data Analysis on Covid 19. | [itamair](https://github.com/itamair) | English
+| [CORONA-TELUGU](https://corona-telugu.herokuapp.com/) | COVID cases by country in Indian regional language 'Telugu'. | [vishnu](https://github.com/rohinikumar4073) | Telugu / English
+| [COVID Dashboard](https://github.com/jcbowyer/d3-in-angular) | Interactive maps and charts analyzing COVID-19 inside an Angular 9 application using the D3 JavaScript framework. | [jcbowyer](https://github.com/jcbowyer) | English
 
 ## Mobile Applications
 
