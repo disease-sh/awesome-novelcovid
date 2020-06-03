@@ -21,7 +21,7 @@
 | [NovelCOVID API](https://disease.sh) | The official NovelCOVID API Landing Page. |
 | [NovelCOVID GitHub](https://github.com/novelcovid/API) | The official NovelCOVID API GitHub. |
 | [NPM Package](https://npmjs.com/novelcovid) | The official NovelCOVID JS Wrapper. |
-| [Support Discord](https://discord.gg/EvbMshU) | The official NovelCOVID Discord. |
+| [Support Discord](https://discord.gg/cEDxzfW) | The official NovelCOVID Discord. |
 
 # Projects
 
