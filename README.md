@@ -5,7 +5,7 @@
 
 - [Get to Know](#get-to-know)
 - [Projects](#projects)
-  - [Dasboards](#dashboards)
+  - [Dashboards](#dashboards)
   - [Mobile Applications](#mobile-applications)
   - [Desktop Applications](#desktop-applications)
   - [Bots](#bots)
