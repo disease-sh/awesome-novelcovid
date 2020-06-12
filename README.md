@@ -62,6 +62,7 @@
 | [COVID19 Web App](https://floating-headland-29129.herokuapp.com/) | A COVID19 dashboard app showing a summary of global, Africa, East Africa and Uganda statistics. Graphs on East Africa and Uganda are included. | [edcsu](https://github.com/edcsu) | English
 | [COVID-19 Updates](https://covidupdate.world) | A simple, elegant dashboard to track the current status of COVID-19 around the global.| [lucky13820](https://github.com/lucky13820) | English
 | [COVID19 Tracker - INDIA](https://corona-cases-india.netlify.app/) | A web app to display the graphical state-wise & date-wise reported corona cases in India so far.  | [vinitshahdeo](https://github.com/vinitshahdeo) | English
+| [Pandemic Control - SARS-CoV-2](https://covid19.erdidogan.com/) | An elegant covid19 dashboard with pandemic under control feature.  | [erdidogan](https://github.com/erdidogan) | English
 
 ## Mobile Applications
 
