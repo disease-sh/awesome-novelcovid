@@ -63,6 +63,7 @@
 | [COVID-19 Updates](https://covidupdate.world) | A simple, elegant dashboard to track the current status of COVID-19 around the global.| [lucky13820](https://github.com/lucky13820) | English
 | [COVID19 Tracker - INDIA](https://corona-cases-india.netlify.app/) | A web app to display the graphical state-wise & date-wise reported corona cases in India so far.  | [vinitshahdeo](https://github.com/vinitshahdeo) | English
 | [Pandemic Control - SARS-CoV-2](https://covid19.erdidogan.com/) | An elegant covid19 dashboard with pandemic under control feature.  | [erdidogan](https://github.com/erdidogan) | English
+| [COVID19 Global Tracker](https://covid19globalstatviewer.web.app/) | A COVID19 dashboard app showing the world map with statistics for each country and a summary of global statistics. | [edcsu](https://github.com/edcsu) | English
 
 ## Mobile Applications
 
