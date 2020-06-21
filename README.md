@@ -64,7 +64,7 @@
 | [COVID19 Tracker - INDIA](https://corona-cases-india.netlify.app/) | A web app to display the graphical state-wise & date-wise reported corona cases in India so far.  | [vinitshahdeo](https://github.com/vinitshahdeo) | English
 | [Pandemic Control - SARS-CoV-2](https://covid19.erdidogan.com/) | An elegant covid19 dashboard with pandemic under control feature.  | [erdidogan](https://github.com/erdidogan) | English
 | [COVID19 Global Tracker](https://covid19globalstatviewer.web.app/) | A COVID19 dashboard app showing the world map with statistics for each country and a summary of global statistics. | [edcsu](https://github.com/edcsu) | English
-
+| [COVID-19 Broadcast](https://interviewcandies.github.io/Covid19-Broadcast/) | A Reactjs application showing COVID-19 status around the world with charts, tables and interactive map| [InterviewCandies](https://github.com/InterviewCandies) | English / Vietnamese.
 ## Mobile Applications
 
 | Link  | Description  | Author | Language |
