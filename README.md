@@ -99,6 +99,7 @@
 | [COVID Bot](https://gist.github.com/MarvelDC/94a65655cd8007be167d6359f4a0d2d8) | Discord Bot with graphs, automation and advice. | [MarvelDC](https://github.com/MarvelDC) | English
 | [CoronaPandemicBot](https://github.com/calpt/CoronaPandemicBot) | Telegram bot with per-country statistics, distribution maps and daily notifications. | [calpt](https://github.com/calpt) | English
 | [CoronaWorldStatsBot](https://github.com/ravindraten/Covid19WorldStats) | Telegram bot which gives you stats and graph when you share any location from around the world. | [Ravindra Nayak](https://github.com/ravindraten) | English
+| [COVID19-Bot](https://github.com/puf17640/covid-bot) | A Discord Bot that can display different charts and graphs, compare two countries and compose leaderboards. | [puf17640](https://github.com/puf17640) | English
 
 ## API Wrappers
 
