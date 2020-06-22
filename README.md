@@ -1,4 +1,4 @@
-# Awesome NovelCOVID 
+# Awesome disease.sh 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Discord](https://img.shields.io/discord/689535536934813823?label=Discord)](https://discord.gg/eA4EHjF) [![Submissions](https://img.shields.io/github/issues-pr/puf17640/awesome-novelcovid?label=Submissions)](https://github.com/puf17640/awesome-novelcovid/pulls)
 <hr>
 <p>A curated list of projects using the NovelCOVID API</p>
@@ -18,8 +18,8 @@
 
 | Link  | Description  |
 |:------|:-------------|
-| [NovelCOVID API](https://disease.sh) | The official NovelCOVID API Landing Page. |
-| [NovelCOVID GitHub](https://github.com/novelcovid/API) | The official NovelCOVID API GitHub. |
+| [Open Disease API](https://disease.sh) | The official NovelCOVID API Landing Page. |
+| [Open Disease GitHub](https://github.com/novelcovid/API) | The official NovelCOVID API GitHub. |
 | [NPM Package](https://npmjs.com/novelcovid) | The official NovelCOVID JS Wrapper. |
 | [Support Discord](https://discord.gg/cEDxzfW) | The official NovelCOVID Discord. |
 
