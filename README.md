@@ -18,10 +18,10 @@
 
 | Link  | Description  |
 |:------|:-------------|
-| [Open Disease API](https://disease.sh) | The official NovelCOVID API Landing Page. |
-| [Open Disease GitHub](https://github.com/novelcovid/API) | The official NovelCOVID API GitHub. |
+| [Open Disease API](https://disease.sh) | The official disease.sh Landing Page. |
+| [Open Disease GitHub](https://github.com/disease-sh/API) | The official disease.sh GitHub. |
 | [NPM Package](https://npmjs.com/novelcovid) | The official NovelCOVID JS Wrapper. |
-| [Support Discord](https://discord.gg/cEDxzfW) | The official NovelCOVID Discord. |
+| [Support Discord](https://discord.gg/cEDxzfW) | The official disease.sh Discord. |
 
 # Projects
 
