@@ -122,6 +122,15 @@
 
 # Donation
 
+Crypto donations go directly to hosting.
+
+BTC at `bc1qvgyr5lc55lhswl7hm2pc26lzdf7pzxj3qsuaze`  
+ETH at `0xE15e461B45DcBD2C859aD64cBfa3E7E991869A45`  
+
+---
+
+Buymeacoffee donations go to misc stuff, like charity giveaways.
+
 <a href="https://www.buymeacoffee.com/covidapi/shop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" width="217" height="50"></a>
 
 # Contribution
