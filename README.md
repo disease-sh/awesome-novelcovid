@@ -1,4 +1,4 @@
-# Awesome NovelCOVID 
+# Awesome disease.sh 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Discord](https://img.shields.io/discord/689535536934813823?label=Discord)](https://discord.gg/eA4EHjF) [![Submissions](https://img.shields.io/github/issues-pr/puf17640/awesome-novelcovid?label=Submissions)](https://github.com/puf17640/awesome-novelcovid/pulls)
 <hr>
 <p>A curated list of projects using the NovelCOVID API</p>
@@ -18,10 +18,10 @@
 
 | Link  | Description  |
 |:------|:-------------|
-| [NovelCOVID API](https://disease.sh) | The official NovelCOVID API Landing Page. |
-| [NovelCOVID GitHub](https://github.com/novelcovid/API) | The official NovelCOVID API GitHub. |
+| [Open Disease API](https://disease.sh) | The official disease.sh Landing Page. |
+| [Open Disease GitHub](https://github.com/disease-sh/API) | The official disease.sh GitHub. |
 | [NPM Package](https://npmjs.com/novelcovid) | The official NovelCOVID JS Wrapper. |
-| [Support Discord](https://discord.gg/cEDxzfW) | The official NovelCOVID Discord. |
+| [Support Discord](https://discord.gg/cEDxzfW) | The official disease.sh Discord. |
 
 # Projects
 
@@ -121,6 +121,15 @@
 | [CovidQL](https://github.com/nerdsupremacist/CovidQL) | GraphQL wrapper that combines NovelCOVID and NewsAPI. | [nerdsupremacist](https://github.com/nerdsupremacist) | English
 
 # Donation
+
+Crypto donations go directly to hosting.
+
+BTC at `bc1qvgyr5lc55lhswl7hm2pc26lzdf7pzxj3qsuaze`  
+ETH at `0xE15e461B45DcBD2C859aD64cBfa3E7E991869A45`  
+
+---
+
+Buymeacoffee donations go to misc stuff, like charity giveaways.
 
 <a href="https://www.buymeacoffee.com/covidapi/shop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" width="217" height="50"></a>
 
