@@ -65,6 +65,7 @@
 | [Pandemic Control - SARS-CoV-2](https://covid19.erdidogan.com/) | An elegant covid19 dashboard with pandemic under control feature.  | [erdidogan](https://github.com/erdidogan) | English
 | [COVID19 Global Tracker](https://covid19globalstatviewer.web.app/) | A COVID19 dashboard app showing the world map with statistics for each country and a summary of global statistics. | [edcsu](https://github.com/edcsu) | English
 | [COVID-19 Broadcast](https://interviewcandies.github.io/Covid19-Broadcast/) | A React.js application showing COVID-19 status around the world with charts, tables and interactive maps. | [InterviewCandies](https://github.com/InterviewCandies) | English / Vietnamese
+| [COVID-19 Dashboard - INDIA](https://indiafightscorona.netlify.app/) | A simple dashboard built using React.js to display COVID-19 stats in India. | [vinitshahdeo](https://github.com/vinitshahdeo) | English
 
 ## Mobile Applications
 
