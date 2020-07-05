@@ -66,6 +66,7 @@
 | [COVID19 Global Tracker](https://covid19globalstatviewer.web.app/) | A COVID19 dashboard app showing the world map with statistics for each country and a summary of global statistics. | [edcsu](https://github.com/edcsu) | English
 | [COVID-19 Broadcast](https://interviewcandies.github.io/Covid19-Broadcast/) | A React.js application showing COVID-19 status around the world with charts, tables and interactive maps. | [InterviewCandies](https://github.com/InterviewCandies) | English / Vietnamese
 | [COVID-19 Dashboard - INDIA](https://indiafightscorona.netlify.app/) | A simple dashboard built using React.js to display COVID-19 stats in India. | [vinitshahdeo](https://github.com/vinitshahdeo) | English
+| [KSA Covid Stats](https://ksa-covid-stats.herokuapp.com/) | A web application that highlights relevant Covid-19 stats in KSA using Node.js and Express.js as Backend implementations. | [SZaidH](https://github.com/SZaidH) | English
 
 ## Mobile Applications
 
