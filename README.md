@@ -108,7 +108,7 @@
 | Link  | Description  | Author | Language |
 |:------|:-------------|:-------|:---------|
 | [NovelCovid](https://npmjs.com/novelcovid) | Extremely fast and always up-to-date JavaScript API Wrapper (formerly covidapi). | [puf17640](https://github.com/puf17640) | English
-| [corona-api](https://pypi.org/project/corona-api) | Always up-to-date Python API Wrapper. | [apex2504](https://github.com/apex2504) | English
+| [disease.py](https://pypi.org/project/disease.py) | The official, up-to-date, and async-compatible Python API Wrapper (formerly corona-api).| [apex2504](https://github.com/apex2504) | English
 | [Covid19Tracker.NET](https://github.com/egbakou/Covid19Tracker.NET) | Up-to-date C# API Wrapper. Nuget package available [here](https://www.nuget.org/packages/Covid19Tracker.NET/) | [egbakou](https://github.com/egbakou) | English
 
 ## Other
