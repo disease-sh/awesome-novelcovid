@@ -122,6 +122,7 @@
 | [Covidstat](https://covidstat.info/graphql) | COVID19 GraphQL API using the NovelCOVID Scraper. | [skavinvarnan](https://github.com/skavinvarnan) | English
 | [coronaTracker](https://github.com/KandaTeach/corona-tracker-console-application) | CLI using the NovelCOVID API. | [KandaTeach](https://github.com/KandaTeach) | Filipino, English
 | [CovidQL](https://github.com/nerdsupremacist/CovidQL) | GraphQL wrapper that combines NovelCOVID and NewsAPI. | [nerdsupremacist](https://github.com/nerdsupremacist) | English
+| [Covid19 Image Api](https://github.com/PiyushSuthar/Covid-19-Image-Api) | An api that generates an image using the NovelCOVID API data. | [PiyushSuthar](https://github.com/PiyushSuthar) | English
 
 # Donation
 
