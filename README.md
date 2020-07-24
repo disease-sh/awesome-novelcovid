@@ -68,7 +68,7 @@
 | [COVID-19 Dashboard - INDIA](https://indiafightscorona.netlify.app/) | A simple dashboard built using React.js to display COVID-19 stats in India. | [vinitshahdeo](https://github.com/vinitshahdeo) | English
 | [KSA Covid Stats](https://ksa-covid-stats.herokuapp.com/) | A web application that highlights relevant Covid-19 stats in KSA using Node.js and Express.js as Backend implementations. | [SZaidH](https://github.com/SZaidH) | English
 | [Pandemic Covid-19 Tracker](https://pandemiccovid19.netlify.app/) | A Web app and PWA compatible worldwide tracker of Pandemic Covid-19, with visualization of graph, table, and map built with VueJS. | [Zekinah](https://github.com/zekinah) | English
-
+| [Información Covid-19](https://covidseguimiento.azurewebsites.net/) | A web app that includes the world total of cases, an interactive map, linear and logarithmic charts and a table of data | [leogelsy](https://github.com/leogelsy) | Spanish
 ## Mobile Applications
 
 | Link  | Description  | Author | Language |
