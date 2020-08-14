@@ -126,6 +126,7 @@
 | [CovidQL](https://github.com/nerdsupremacist/CovidQL) | GraphQL wrapper that combines NovelCOVID and NewsAPI. | [nerdsupremacist](https://github.com/nerdsupremacist) | English
 | [Covid19 Image Api](https://github.com/PiyushSuthar/Covid-19-Image-Api) | An api that generates an image using the NovelCOVID API data. | [PiyushSuthar](https://github.com/PiyushSuthar) | English
 | [Zone Pandemic Covid19](https://wordpress.org/plugins/zone-pandemic-covid-19/) | A WordPress plugin that provides a shortcode that displays the recorded data of the covid19 in the whole world. | [Zekinah](https://github.com/zekinah) | English
+| [COVID-19 Mapping App Tutorial with Gatsby & Leaflet](https://www.colbyfayock.com/2020/03/how-to-create-a-coronavirus-covid-19-dashboard-map-app-with-gatsby-and-leaflet/) | Build a Coronavirus global statistics mapping app with the Open Disease Data API using Gatsby and Leaflet | [Colby Fayock](https://github.com/colbyfayock) | English
 
 # Donation
 
