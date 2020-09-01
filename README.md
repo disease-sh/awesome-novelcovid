@@ -68,6 +68,7 @@
 | [COVID-19 Dashboard - INDIA](https://indiafightscorona.netlify.app/) | A simple dashboard built using React.js to display COVID-19 stats in India. | [vinitshahdeo](https://github.com/vinitshahdeo) | English
 | [KSA Covid Stats](https://ksa-covid-stats.herokuapp.com/) | A web application that highlights relevant Covid-19 stats in KSA using Node.js and Express.js as Backend implementations. | [SZaidH](https://github.com/SZaidH) | English
 | [Pandemic Covid-19 Tracker](https://pandemiccovid19.netlify.app/) | A Web app and PWA compatible worldwide tracker of Pandemic Covid-19, with visualization of graph, table, and map built with VueJS. | [Zekinah](https://github.com/zekinah) | English
+| [Novelcovid-api-badges](https://github.com/egbakou/novelcovid-api-badges) | ![cases](https://novelcovid-api-badges.herokuapp.com/confirmed) ![today-cases](https://novelcovid-api-badges.herokuapp.com/todaycases) ![deaths](https://novelcovid-api-badges.herokuapp.com/deaths) ![today-deaths](https://novelcovid-api-badges.herokuapp.com/todaydeaths) ![recovered](https://novelcovid-api-badges.herokuapp.com/recovered/) ![actives](https://novelcovid-api-badges.herokuapp.com/actives/) Svg badges displaying the number of coronavirus confirmed cases, recovered and deaths.  | [egbakou](https://github.com/egbakou) | English
 
 ## Mobile Applications
 
