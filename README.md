@@ -68,7 +68,6 @@
 | [COVID-19 Dashboard - INDIA](https://indiafightscorona.netlify.app/) | A simple dashboard built using React.js to display COVID-19 stats in India. | [vinitshahdeo](https://github.com/vinitshahdeo) | English
 | [KSA Covid Stats](https://ksa-covid-stats.herokuapp.com/) | A web application that highlights relevant Covid-19 stats in KSA using Node.js and Express.js as Backend implementations. | [SZaidH](https://github.com/SZaidH) | English
 | [Pandemic Covid-19 Tracker](https://pandemiccovid19.netlify.app/) | A Web app and PWA compatible worldwide tracker of Pandemic Covid-19, with visualization of graph, table, and map built with VueJS. | [Zekinah](https://github.com/zekinah) | English
-| [Novelcovid-api-badges](https://github.com/egbakou/novelcovid-api-badges) | ![cases](https://novelcovid-api-badges.herokuapp.com/confirmed) ![today-cases](https://novelcovid-api-badges.herokuapp.com/todaycases) ![deaths](https://novelcovid-api-badges.herokuapp.com/deaths) ![today-deaths](https://novelcovid-api-badges.herokuapp.com/todaydeaths) ![recovered](https://novelcovid-api-badges.herokuapp.com/recovered/) ![actives](https://novelcovid-api-badges.herokuapp.com/actives/) Svg badges displaying the number of coronavirus confirmed cases, recovered and deaths.  | [egbakou](https://github.com/egbakou) | English
 
 ## Mobile Applications
 
@@ -129,6 +128,7 @@
 | [Covid19 Image Api](https://github.com/PiyushSuthar/Covid-19-Image-Api) | An api that generates an image using the NovelCOVID API data. | [PiyushSuthar](https://github.com/PiyushSuthar) | English
 | [Zone Pandemic Covid19](https://wordpress.org/plugins/zone-pandemic-covid-19/) | A WordPress plugin that provides a shortcode that displays the recorded data of the covid19 in the whole world. | [Zekinah](https://github.com/zekinah) | English
 | [COVID-19 Mapping App Tutorial with Gatsby & Leaflet](https://www.colbyfayock.com/2020/03/how-to-create-a-coronavirus-covid-19-dashboard-map-app-with-gatsby-and-leaflet/) | Build a Coronavirus global statistics mapping app with the Open Disease Data API using Gatsby and Leaflet | [Colby Fayock](https://github.com/colbyfayock) | English
+| [Novelcovid-api-badges](https://github.com/egbakou/novelcovid-api-badges) | SVG badges displaying the number of coronavirus confirmed cases, recovered and deaths.  | [egbakou](https://github.com/egbakou) | English
 
 # Donation
 
