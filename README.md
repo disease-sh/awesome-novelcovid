@@ -85,6 +85,7 @@
 | [NumOMeter](https://play.google.com/store/apps/details?id=com.app.numometer) | This project, an Android based application made with Flutter, has been made with the use of some great open-source projects that have been providing some latest numbers in accordance with the recent situation. I have tried to put all those numbers in a single application for the better user experience. | [neo7337](https://github.com/neo7337) | English
 | [COVID-19 Tracker CR](https://github.com/TotallyNotInUse/covid_tracker_cr/releases/latest) | This app is for tracking information related to COVID-19 in Costa Rica only. Made in Flutter and for Android. | [TotallyNotInUse {Julian Murillo}](https://github.com/TotallyNotInUse) | Spanish
 | [Covid Widgets KWGT](https://github.com/yogeshgosavi/Covid-Widgets-KWGT) | Get Covid statistics right on your homescreen. | [yogeshgosavi](https://github.com/yogeshgosavi) | English
+| [Covid-19 Cases Tracker](https://github.com/adityanjr/covid19-tracker) | Tracking the impact of COVID-19 cases based on your location, built in Flutter. | [adityanjr](https://github.com/adityanjr) | English
 
 ## Desktop Applications
 
