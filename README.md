@@ -1,4 +1,4 @@
-# Awesome NovelCOVID 
+# Awesome disease.sh 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Discord](https://img.shields.io/discord/689535536934813823?label=Discord)](https://discord.gg/eA4EHjF) [![Submissions](https://img.shields.io/github/issues-pr/puf17640/awesome-novelcovid?label=Submissions)](https://github.com/puf17640/awesome-novelcovid/pulls)
 <hr>
 <p>A curated list of projects using the NovelCOVID API</p>
@@ -18,10 +18,10 @@
 
 | Link  | Description  |
 |:------|:-------------|
-| [NovelCOVID API](https://disease.sh) | The official NovelCOVID API Landing Page. |
-| [NovelCOVID GitHub](https://github.com/novelcovid/API) | The official NovelCOVID API GitHub. |
+| [Open Disease API](https://disease.sh) | The official disease.sh Landing Page. |
+| [Open Disease GitHub](https://github.com/disease-sh/API) | The official disease.sh GitHub. |
 | [NPM Package](https://npmjs.com/novelcovid) | The official NovelCOVID JS Wrapper. |
-| [Support Discord](https://discord.gg/cEDxzfW) | The official NovelCOVID Discord. |
+| [Support Discord](https://discord.gg/cEDxzfW) | The official disease.sh Discord. |
 
 # Projects
 
@@ -43,7 +43,7 @@
 | [COVID19 Balkan countries](https://covid19-balkan.com/) | Simple, chart visualized data about the current impact of COVID-19 in the Balkan countries. | [GoodbyePlanet](https://github.com/GoodbyePlanet) | English
 | [COVID 3D Map](https://covid3dmaps.com/) | Interactive 3D globe visualization for COVID stats. | [itsatrip](https://github.com/itsatrip) | English, Spanish
 | [COVID-19 Tracker](http://tcovid19.herokuapp.com/) | Dashboard with data visualisations for both India & rest of the world. | [thecoducer](https://github.com/thecoducer) | English
-| [Corona Live](https://coronaisrael.live/) | Get live statistics on the spread of Coronavirus in Israel and in other countries around the world. (English version coming soon) | [meirroth](https://github.com/meirroth) | Hebrew
+| [Corona Live](https://coronaisrael.live/en/) | Get live statistics on the spread of Coronavirus in Israel and in other countries around the world. | [meirroth](https://github.com/meirroth) | English / Hebrew
 | [Tracking COVID-19](https://tracking-covid-19.herokuapp.com) | Dashboard to track the spread of COVID-19 outbreak. | [simongjetaj](https://github.com/simongjetaj) | English
 | [COVID-19 Informer](https://covid-19informer.com) | COVID-19 Stats Dashboard | [aamay001](https://github.com/aamay001) | English
 | [COVID-19 Dashboard](https://josiahyeow.github.io/covid-19-dashboard/) | Simple dashboard which shows the numbers and curve of country and (Australian) state data. | [josiahyeow](https://github.com/josiahyeow) | English
@@ -64,6 +64,10 @@
 | [COVID19 Tracker - INDIA](https://corona-cases-india.netlify.app/) | A web app to display the graphical state-wise & date-wise reported corona cases in India so far.  | [vinitshahdeo](https://github.com/vinitshahdeo) | English
 | [Pandemic Control - SARS-CoV-2](https://covid19.erdidogan.com/) | An elegant covid19 dashboard with pandemic under control feature.  | [erdidogan](https://github.com/erdidogan) | English
 | [COVID19 Global Tracker](https://covid19globalstatviewer.web.app/) | A COVID19 dashboard app showing the world map with statistics for each country and a summary of global statistics. | [edcsu](https://github.com/edcsu) | English
+| [COVID-19 Broadcast](https://interviewcandies.github.io/Covid19-Broadcast/) | A React.js application showing COVID-19 status around the world with charts, tables and interactive maps. | [InterviewCandies](https://github.com/InterviewCandies) | English / Vietnamese
+| [COVID-19 Dashboard - INDIA](https://indiafightscorona.netlify.app/) | A simple dashboard built using React.js to display COVID-19 stats in India. | [vinitshahdeo](https://github.com/vinitshahdeo) | English
+| [KSA Covid Stats](https://ksa-covid-stats.herokuapp.com/) | A web application that highlights relevant Covid-19 stats in KSA using Node.js and Express.js as Backend implementations. | [SZaidH](https://github.com/SZaidH) | English
+| [Pandemic Covid-19 Tracker](https://pandemiccovid19.netlify.app/) | A Web app and PWA compatible worldwide tracker of Pandemic Covid-19, with visualization of graph, table, and map built with VueJS. | [Zekinah](https://github.com/zekinah) | English
 | [COVID19 Vaccine Tracker](https://covid19globaltracker.web.app/) | A COVID19 vaccine dashboard app with the latest on vaccine candidates. | [edcsu](https://github.com/edcsu) | English
 
 ## Mobile Applications
@@ -79,6 +83,10 @@
 | [COVIDAR](https://github.com/slidershock/COVIDAR) |  Material design iOS/Android app to track the COVID-19 pandemic. App built using React Native.| [slidershock](https://github.com/slidershock) | English
 | [Covid19Tracker](https://github.com/arpank10/Covid-19-Flutter) | A minimal android app with a neomorphic touch, providing statistics of COVID-19 cases around the world. | [arpank10](https://github.com/arpank10) | English
 |[COVID-19 Tracker](https://github.com/prateekKrOraon/covid19_tracker) | Android Application made with Flutter shows global COVID-19 statistics primarily focusing on India. The app also provides predictions (India only) using SIRD model of epidemiology and has a feature to compare spread trends of any two countries. | [prateekKrOraon](https://github.com/prateekKrOraon) | English & Hindi
+| [NumOMeter](https://play.google.com/store/apps/details?id=com.app.numometer) | This project, an Android based application made with Flutter, has been made with the use of some great open-source projects that have been providing some latest numbers in accordance with the recent situation. I have tried to put all those numbers in a single application for the better user experience. | [neo7337](https://github.com/neo7337) | English
+| [COVID-19 Tracker CR](https://github.com/TotallyNotInUse/covid_tracker_cr/releases/latest) | This app is for tracking information related to COVID-19 in Costa Rica only. Made in Flutter and for Android. | [TotallyNotInUse {Julian Murillo}](https://github.com/TotallyNotInUse) | Spanish
+| [Covid Widgets KWGT](https://github.com/yogeshgosavi/Covid-Widgets-KWGT) | Get Covid statistics right on your homescreen. | [yogeshgosavi](https://github.com/yogeshgosavi) | English
+| [Covid-19 Cases Tracker](https://github.com/adityanjr/covid19-tracker) | Tracking the impact of COVID-19 cases based on your location, built in Flutter. | [adityanjr](https://github.com/adityanjr) | English
 
 ## Desktop Applications
 
@@ -99,13 +107,14 @@
 | [COVID Bot](https://gist.github.com/MarvelDC/94a65655cd8007be167d6359f4a0d2d8) | Discord Bot with graphs, automation and advice. | [MarvelDC](https://github.com/MarvelDC) | English
 | [CoronaPandemicBot](https://github.com/calpt/CoronaPandemicBot) | Telegram bot with per-country statistics, distribution maps and daily notifications. | [calpt](https://github.com/calpt) | English
 | [CoronaWorldStatsBot](https://github.com/ravindraten/Covid19WorldStats) | Telegram bot which gives you stats and graph when you share any location from around the world. | [Ravindra Nayak](https://github.com/ravindraten) | English
+| [COVID19-Bot](https://github.com/puf17640/covid-bot) | A Discord Bot that can display different charts and graphs, compare two countries and compose leaderboards. | [puf17640](https://github.com/puf17640) | English
 
 ## API Wrappers
 
 | Link  | Description  | Author | Language |
 |:------|:-------------|:-------|:---------|
 | [NovelCovid](https://npmjs.com/novelcovid) | Extremely fast and always up-to-date JavaScript API Wrapper (formerly covidapi). | [puf17640](https://github.com/puf17640) | English
-| [corona-api](https://pypi.org/project/corona-api) | Always up-to-date Python API Wrapper. | [apex2504](https://github.com/apex2504) | English
+| [disease.py](https://pypi.org/project/disease.py) | The official, up-to-date, and async-compatible Python API Wrapper (formerly corona-api).| [apex2504](https://github.com/apex2504) | English
 | [Covid19Tracker.NET](https://github.com/egbakou/Covid19Tracker.NET) | Up-to-date C# API Wrapper. Nuget package available [here](https://www.nuget.org/packages/Covid19Tracker.NET/) | [egbakou](https://github.com/egbakou) | English
 
 ## Other
@@ -118,8 +127,21 @@
 | [Covidstat](https://covidstat.info/graphql) | COVID19 GraphQL API using the NovelCOVID Scraper. | [skavinvarnan](https://github.com/skavinvarnan) | English
 | [coronaTracker](https://github.com/KandaTeach/corona-tracker-console-application) | CLI using the NovelCOVID API. | [KandaTeach](https://github.com/KandaTeach) | Filipino, English
 | [CovidQL](https://github.com/nerdsupremacist/CovidQL) | GraphQL wrapper that combines NovelCOVID and NewsAPI. | [nerdsupremacist](https://github.com/nerdsupremacist) | English
+| [Covid19 Image Api](https://github.com/PiyushSuthar/Covid-19-Image-Api) | An api that generates an image using the NovelCOVID API data. | [PiyushSuthar](https://github.com/PiyushSuthar) | English
+| [Zone Pandemic Covid19](https://wordpress.org/plugins/zone-pandemic-covid-19/) | A WordPress plugin that provides a shortcode that displays the recorded data of the covid19 in the whole world. | [Zekinah](https://github.com/zekinah) | English
+| [COVID-19 Mapping App Tutorial with Gatsby & Leaflet](https://www.colbyfayock.com/2020/03/how-to-create-a-coronavirus-covid-19-dashboard-map-app-with-gatsby-and-leaflet/) | Build a Coronavirus global statistics mapping app with the Open Disease Data API using Gatsby and Leaflet | [Colby Fayock](https://github.com/colbyfayock) | English
+| [Novelcovid-api-badges](https://github.com/egbakou/novelcovid-api-badges) | SVG badges displaying the number of coronavirus confirmed cases, recovered and deaths.  | [egbakou](https://github.com/egbakou) | English
 
 # Donation
+
+Crypto donations go directly to hosting.
+
+BTC at `bc1qvgyr5lc55lhswl7hm2pc26lzdf7pzxj3qsuaze`  
+ETH at `0xE15e461B45DcBD2C859aD64cBfa3E7E991869A45`  
+
+---
+
+Buymeacoffee donations go to misc stuff, like charity giveaways.
 
 <a href="https://www.buymeacoffee.com/covidapi/shop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" width="217" height="50"></a>
 
