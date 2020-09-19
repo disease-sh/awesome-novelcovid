@@ -121,6 +121,7 @@
 
 | Link  | Description  | Author | Language |
 |:------|:-------------|:-------|:---------|
+| [COVID Stats](https://reuben.z13.web.core.windows.net/) | COVID19 Stats by country. Up since Feb-2020, built in React, and deployed on Azure. | [marlinspike](https://github.com/marlinspike) | English
 | [COVID19 Daily Digest](https://covid19dailydigest.com) | COVID19 newsletter for your country. | [puf17640](https://github.com/puf17640) | English
 | [Corona Track CLI](https://www.npmjs.com/package/coronatrack) | Small corona virus tracker for the command line. | [Ethan Winters](https://github.com/ebwinters) | English
 | [COVID19 Tracker CLI](https://github.com/trackercli/covid19-tracker-cli) | Open-source Tracker CLI written in NodeJS. | [WarenGonzaga](https://github.com/WarenGonzaga) | English
