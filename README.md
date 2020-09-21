@@ -69,7 +69,6 @@
 | [KSA Covid Stats](https://ksa-covid-stats.herokuapp.com/) | A web application that highlights relevant Covid-19 stats in KSA using Node.js and Express.js as Backend implementations. | [SZaidH](https://github.com/SZaidH) | English
 | [Pandemic Covid-19 Tracker](https://pandemiccovid19.netlify.app/) | A Web app and PWA compatible worldwide tracker of Pandemic Covid-19, with visualization of graph, table, and map built with VueJS. | [Zekinah](https://github.com/zekinah) | English
 | [COVID19 Vaccine Tracker](https://covid19globaltracker.web.app/) | A COVID19 vaccine dashboard app with the latest on vaccine candidates. | [edcsu](https://github.com/edcsu) | English
-| [COVID Stats](http://Covid19.cleet.us) | Covid-19 Dashboard with global COVID stats. Up since Feb-2020. | [marlinspike](https://github.com/marlinspike) | English
 
 ## Mobile Applications
 
@@ -122,7 +121,6 @@
 
 | Link  | Description  | Author | Language |
 |:------|:-------------|:-------|:---------|
-| [COVID Stats](https://reuben.z13.web.core.windows.net/) | COVID19 Stats by country. Up since Feb-2020, built in React, and deployed on Azure. | [marlinspike](https://github.com/marlinspike) | English
 | [COVID19 Daily Digest](https://covid19dailydigest.com) | COVID19 newsletter for your country. | [puf17640](https://github.com/puf17640) | English
 | [Corona Track CLI](https://www.npmjs.com/package/coronatrack) | Small corona virus tracker for the command line. | [Ethan Winters](https://github.com/ebwinters) | English
 | [COVID19 Tracker CLI](https://github.com/trackercli/covid19-tracker-cli) | Open-source Tracker CLI written in NodeJS. | [WarenGonzaga](https://github.com/WarenGonzaga) | English
@@ -133,6 +131,7 @@
 | [Zone Pandemic Covid19](https://wordpress.org/plugins/zone-pandemic-covid-19/) | A WordPress plugin that provides a shortcode that displays the recorded data of the covid19 in the whole world. | [Zekinah](https://github.com/zekinah) | English
 | [COVID-19 Mapping App Tutorial with Gatsby & Leaflet](https://www.colbyfayock.com/2020/03/how-to-create-a-coronavirus-covid-19-dashboard-map-app-with-gatsby-and-leaflet/) | Build a Coronavirus global statistics mapping app with the Open Disease Data API using Gatsby and Leaflet | [Colby Fayock](https://github.com/colbyfayock) | English
 | [Novelcovid-api-badges](https://github.com/egbakou/novelcovid-api-badges) | SVG badges displaying the number of coronavirus confirmed cases, recovered and deaths.  | [egbakou](https://github.com/egbakou) | English
+| [COVID Stats](https://reuben.z13.web.core.windows.net/) | COVID19 Stats by country. Up since Feb-2020, built in React, and deployed on Azure. | [marlinspike](https://github.com/marlinspike) | English
 
 # Donation
 
