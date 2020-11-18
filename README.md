@@ -69,6 +69,7 @@
 | [KSA Covid Stats](https://ksa-covid-stats.herokuapp.com/) | A web application that highlights relevant Covid-19 stats in KSA using Node.js and Express.js as Backend implementations. | [SZaidH](https://github.com/SZaidH) | English
 | [Pandemic Covid-19 Tracker](https://pandemiccovid19.netlify.app/) | A Web app and PWA compatible worldwide tracker of Pandemic Covid-19, with visualization of graph, table, and map built with VueJS. | [Zekinah](https://github.com/zekinah) | English
 | [COVID19 Vaccine Tracker](https://covid19globaltracker.web.app/) | A COVID19 vaccine dashboard app with the latest on vaccine candidates. | [edcsu](https://github.com/edcsu) | English
+| [Covid Square](https://covid-square.com/) | Compare Covid cases and deaths to your country's total population. | [pgaspar](https://github.com/pgaspar) | English
 
 ## Mobile Applications
 
