@@ -87,7 +87,7 @@
 | [COVID-19 Tracker CR](https://github.com/TotallyNotInUse/covid_tracker_cr/releases/latest) | This app is for tracking information related to COVID-19 in Costa Rica only. Made in Flutter and for Android. | [TotallyNotInUse {Julian Murillo}](https://github.com/TotallyNotInUse) | Spanish
 | [Covid Widgets KWGT](https://github.com/yogeshgosavi/Covid-Widgets-KWGT) | Get Covid statistics right on your homescreen. | [yogeshgosavi](https://github.com/yogeshgosavi) | English
 | [Covid-19 Cases Tracker](https://github.com/adityanjr/covid19-tracker) | Tracking the impact of COVID-19 cases based on your location, built in Flutter. | [adityanjr](https://github.com/adityanjr) | English
-| [COVID19 Tracker Angola](https://github.com/moser-jose/covid19tracker) | Mobile app for Covid19 statistics in Angola and around the world. | [moser-jose](https://github.com/moser-jose) | Portuguese
+| [COVID19 Tracker Angola](https://github.com/moser-jose/covid19angola) | Mobile app for Covid19 statistics in Angola and around the world. | [moser-jose](https://github.com/moser-jose) | Portuguese
 ## Desktop Applications
 
 | Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Description  | Author | Language |
