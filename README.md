@@ -88,7 +88,7 @@
 | [Covid Widgets KWGT](https://github.com/yogeshgosavi/Covid-Widgets-KWGT) | Get Covid statistics right on your homescreen. | [yogeshgosavi](https://github.com/yogeshgosavi) | English
 | [Covid-19 Cases Tracker](https://github.com/adityanjr/covid19-tracker) | Tracking the impact of COVID-19 cases based on your location, built in Flutter. | [adityanjr](https://github.com/adityanjr) | English
 | [Covid Today](https://install.appcenter.ms/users/info-145/apps/covid-today/distribution_groups/everybody) | Native Android app written in Kotlin with a card view layout showing today's cases by country. Based on the [web](https://codepen.io/tinacious/full/eYNbEoE) version. [Open-source](https://github.com/tinacious/CovidToday-Android). | [tinacious](https://github.com/tinacious) | Multiple
-
+| [COVID-19 Tracker Angola](https://github.com/moser-jose/covid19angola) | Mobile app for Covid-19 statistics in Angola and around the world. | [moser-jose](https://github.com/moser-jose) | Portuguese, English
 ## Desktop Applications
 
 | Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Description  | Author | Language |
