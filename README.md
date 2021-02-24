@@ -69,6 +69,8 @@
 | [KSA Covid Stats](https://ksa-covid-stats.herokuapp.com/) | A web application that highlights relevant Covid-19 stats in KSA using Node.js and Express.js as Backend implementations. | [SZaidH](https://github.com/SZaidH) | English
 | [Pandemic Covid-19 Tracker](https://pandemiccovid19.netlify.app/) | A Web app and PWA compatible worldwide tracker of Pandemic Covid-19, with visualization of graph, table, and map built with VueJS. | [Zekinah](https://github.com/zekinah) | English
 | [COVID19 Vaccine Tracker](https://covid19globaltracker.web.app/) | A COVID19 vaccine dashboard app with the latest on vaccine candidates. | [edcsu](https://github.com/edcsu) | English
+| [COVID-19 Hub](https://covid19-hub.herokuapp.com) | A COVID19 website that's an all in one information center. From dashboards and stats to latest news, information and vaccine data. | [DewaldOosthuizen](https://github.com/DewaldOosthuizen) | English
+| [COVID Dashboard](https://bak2k3.github.io/covid-dashboard/index.html) | An interactive COVID19 interface for comparing individual country data, visualising time-series data, and comparing statistics on a global scale. | [bak2k3](https://github.com/BAK2K3) | English
 | [Covid Square](https://covid-square.com/) | Compare Covid cases and deaths to your country's total population. | [pgaspar](https://github.com/pgaspar) | English
 
 ## Mobile Applications
@@ -88,7 +90,8 @@
 | [COVID-19 Tracker CR](https://github.com/TotallyNotInUse/covid_tracker_cr/releases/latest) | This app is for tracking information related to COVID-19 in Costa Rica only. Made in Flutter and for Android. | [TotallyNotInUse {Julian Murillo}](https://github.com/TotallyNotInUse) | Spanish
 | [Covid Widgets KWGT](https://github.com/yogeshgosavi/Covid-Widgets-KWGT) | Get Covid statistics right on your homescreen. | [yogeshgosavi](https://github.com/yogeshgosavi) | English
 | [Covid-19 Cases Tracker](https://github.com/adityanjr/covid19-tracker) | Tracking the impact of COVID-19 cases based on your location, built in Flutter. | [adityanjr](https://github.com/adityanjr) | English
-
+| [Covid Today](https://install.appcenter.ms/users/info-145/apps/covid-today/distribution_groups/everybody) | Native Android app written in Kotlin with a card view layout showing today's cases by country. Based on the [web](https://codepen.io/tinacious/full/eYNbEoE) version. [Open-source](https://github.com/tinacious/CovidToday-Android). | [tinacious](https://github.com/tinacious) | Multiple
+| [COVID-19 Tracker Angola](https://github.com/moser-jose/covid19angola) | Mobile app for Covid-19 statistics in Angola and around the world. | [moser-jose](https://github.com/moser-jose) | Portuguese, English
 ## Desktop Applications
 
 | Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Description  | Author | Language |
