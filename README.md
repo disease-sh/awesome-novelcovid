@@ -69,6 +69,9 @@
 | [KSA Covid Stats](https://ksa-covid-stats.herokuapp.com/) | A web application that highlights relevant Covid-19 stats in KSA using Node.js and Express.js as Backend implementations. | [SZaidH](https://github.com/SZaidH) | English
 | [Pandemic Covid-19 Tracker](https://pandemiccovid19.netlify.app/) | A Web app and PWA compatible worldwide tracker of Pandemic Covid-19, with visualization of graph, table, and map built with VueJS. | [Zekinah](https://github.com/zekinah) | English
 | [COVID19 Vaccine Tracker](https://covid19globaltracker.web.app/) | A COVID19 vaccine dashboard app with the latest on vaccine candidates. | [edcsu](https://github.com/edcsu) | English
+| [COVID-19 Hub](https://covid19-hub.herokuapp.com) | A COVID19 website that's an all in one information center. From dashboards and stats to latest news, information and vaccine data. | [DewaldOosthuizen](https://github.com/DewaldOosthuizen) | English
+| [COVID Dashboard](https://bak2k3.github.io/covid-dashboard/index.html) | An interactive COVID19 interface for comparing individual country data, visualising time-series data, and comparing statistics on a global scale. | [bak2k3](https://github.com/BAK2K3) | English
+| [Covid Square](https://covid-square.com/) | Compare Covid cases and deaths to your country's total population. | [pgaspar](https://github.com/pgaspar) | English
 | [COVID-19 Dashboard For The Netherlands](https://iscoronavoorbij.nl/) | A minimal Vue.js COVID-19 dashboard with the latest information on cases, deaths, tests and vaccines in The Netherlands. | [StefanVDWeide](https://github.com/StefanVDWeide) | Dutch
 
 ## Mobile Applications
@@ -134,6 +137,7 @@
 | [COVID-19 Mapping App Tutorial with Gatsby & Leaflet](https://www.colbyfayock.com/2020/03/how-to-create-a-coronavirus-covid-19-dashboard-map-app-with-gatsby-and-leaflet/) | Build a Coronavirus global statistics mapping app with the Open Disease Data API using Gatsby and Leaflet | [Colby Fayock](https://github.com/colbyfayock) | English
 | [Novelcovid-api-badges](https://github.com/egbakou/novelcovid-api-badges) | SVG badges displaying the number of coronavirus confirmed cases, recovered and deaths.  | [egbakou](https://github.com/egbakou) | English
 | [COVID Stats](https://reuben.z13.web.core.windows.net/) | COVID19 Stats by country. Up since Feb-2020, built in React, and deployed on Azure. | [marlinspike](https://github.com/marlinspike) | English
+| [The COVID Memorial](https://thecovid.memorial/) | The COVID Memorial is a place to commemorate all those around the world, who have sadly lost their lives due to the pandemic. | [Find Others](https://github.com/glow-labs-ltd) | English
 
 # Donation
 
