@@ -73,6 +73,8 @@
 | [COVID Dashboard](https://bak2k3.github.io/covid-dashboard/index.html) | An interactive COVID19 interface for comparing individual country data, visualising time-series data, and comparing statistics on a global scale. | [bak2k3](https://github.com/BAK2K3) | English
 | [Covid Square](https://covid-square.com/) | Compare Covid cases and deaths to your country's total population. | [pgaspar](https://github.com/pgaspar) | English
 | [COVID-19 Dashboard For The Netherlands](https://iscoronavoorbij.nl/) | A minimal Vue.js COVID-19 dashboard with the latest information on cases, deaths, tests and vaccines in The Netherlands. | [StefanVDWeide](https://github.com/StefanVDWeide) | Dutch
+| [Covid-19 Global Tracker](https://covid19-tracker-pr.netlify.app/) | A react app tracking latest and historical Covid-19 statistics at a global and country level. | [patrivet](https://github.com/patrivet) | English
+
 
 ## Mobile Applications
 
