@@ -74,6 +74,7 @@
 | [Covid Square](https://covid-square.com/) | Compare Covid cases and deaths to your country's total population. | [pgaspar](https://github.com/pgaspar) | English
 | [COVID-19 Dashboard For The Netherlands](https://iscoronavoorbij.nl/) | A minimal Vue.js COVID-19 dashboard with the latest information on cases, deaths, tests and vaccines in The Netherlands. | [StefanVDWeide](https://github.com/StefanVDWeide) | Dutch
 | [Covid-19 Global Tracker](https://covid19-tracker-pr.netlify.app/) | A react app tracking latest and historical Covid-19 statistics at a global and country level. | [patrivet](https://github.com/patrivet) | English
+| [Covid-19 Timeline](https://covid-19-timeline.netlify.app/) | A timeline visualizing the currently infected in Google Maps. | [gautemo](https://github.com/gautemo) | English
 
 
 ## Mobile Applications
