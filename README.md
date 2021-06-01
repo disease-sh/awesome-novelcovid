@@ -76,6 +76,7 @@
 | [Covid-19 Global Tracker](https://covid19-tracker-pr.netlify.app/) | A react app tracking latest and historical Covid-19 statistics at a global and country level. | [patrivet](https://github.com/patrivet) | English
 | [COVID-19 Daily Stats](https://dailystats.ir/) | Covid-19 Dashboard With Daily stats for every Country. | [maniyeganeh](https://github.com/maniyeganeh) | Persian
 | [Covid-19 Timeline](https://covid-19-timeline.netlify.app/) | A timeline visualizing the currently infected in Google Maps. | [gautemo](https://github.com/gautemo) | English
+| [Covid totals, today](https://covidtotals.today/) | Summary about number of new daily cases for Coronavirus COVID-19 | [jabranr](https://github.com/jabranr) | English
 
 ## Mobile Applications
 
