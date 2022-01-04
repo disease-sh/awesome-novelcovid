@@ -3,7 +3,8 @@
 <hr>
 <p>A curated list of projects using the NovelCOVID API</p>
 
-- [Get to Know](#get-to-know)
+- [Awesome disease.sh](#awesome-diseasesh)
+  - [Get to Know](#get-to-know)
 - [Projects](#projects)
   - [Dashboards](#dashboards)
   - [Mobile Applications](#mobile-applications)
@@ -78,6 +79,8 @@
 | [Covid-19 Timeline](https://covid-19-timeline.netlify.app/) | A timeline visualizing the currently infected in Google Maps. | [gautemo](https://github.com/gautemo) | English
 | [Covid totals, today](https://covidtotals.today/) | Summary about number of new daily cases for Coronavirus COVID-19 | [jabranr](https://github.com/jabranr) | English
 | [CVD-19 Tracker](https://cvd-19-tracker.herokuapp.com/) | A web app to display graphical data regarding Covid statistics world wide, country and state levels. | [geentjegeni](https://github.com/geentjegeni) | English
+| [Covid-19 Tracker](https://covidvirus-tracker.netlify.app/) | A Covid-19 Tracker dashboard showcasing the latest status of covid-19 virus cases around the world and for a specific country, with visualization of map, tables, and charts. | [shamlo](https://github.com/shammlo) | English, Kurdish, and Arabic
+| [Covid-19](https://covidvirus-tracker.vercel.app/) | A Covid-19 web application showcasing the latest status of covid-19 virus cases and latest vaccine around the world, with visualization of map, tables, and charts, using Next.js, Redux, and TypeScript. | [shamlo](https://github.com/shammlo) | English
 
 ## Mobile Applications
 
