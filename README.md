@@ -78,6 +78,7 @@
 | [Covid-19 Timeline](https://covid-19-timeline.netlify.app/) | A timeline visualizing the currently infected in Google Maps. | [gautemo](https://github.com/gautemo) | English
 | [Covid totals, today](https://covidtotals.today/) | Summary about number of new daily cases for Coronavirus COVID-19 | [jabranr](https://github.com/jabranr) | English
 | [CVD-19 Tracker](https://cvd-19-tracker.herokuapp.com/) | A web app to display graphical data regarding Covid statistics world wide, country and state levels. | [geentjegeni](https://github.com/geentjegeni) | English
+| [COVID19-Nicaragua](https://covid19-nicaragua.vercel.app/) | Dashboard with global and Nicaragua-specific data on COVID-19 cases | [habarahonaa](https://github.com/habarahonaa) | Spanish
 
 ## Mobile Applications
 
