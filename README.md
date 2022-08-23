@@ -78,6 +78,7 @@
 | [Covid-19 Timeline](https://covid-19-timeline.netlify.app/) | A timeline visualizing the currently infected in Google Maps. | [gautemo](https://github.com/gautemo) | English
 | [Covid totals, today](https://covidtotals.today/) | Summary about number of new daily cases for Coronavirus COVID-19 | [jabranr](https://github.com/jabranr) | English
 | [CVD-19 Tracker](https://cvd-19-tracker.herokuapp.com/) | A web app to display graphical data regarding Covid statistics world wide, country and state levels. | [geentjegeni](https://github.com/geentjegeni) | English
+| [Covid-19 Accountability](https://covidtransparency.org/) | Accountability platform for monitoring expenditure, procurement processes, and impact on lives and livelihoods of COVID-19 funds and grants in some of the AU member states that are party to the African Union Convention on Preventing and Combating Corruption (AUCPCC) | [Munyasi](https://github.com/Munyasi) | Multiple
 
 ## Mobile Applications
 
